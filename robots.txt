@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://onchainfinity.art/sitemap.xml
