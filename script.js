@@ -4,7 +4,8 @@ const translations = {
     skip: 'Skip to the works', works: 'Works', artist: 'The artist', correspondences: 'Correspondences', language: 'Language', navigation: 'Main navigation', menu: 'Open menu', 'menu.close': 'Close menu', close: 'Close', previous: 'Previous work', next: 'Next work',
     'hero.eyebrow': 'Art / Music / Cultural memory', 'hero.line': 'Explore our traces in AI. Reveal our humanity.', 'hero.description': 'Electronic music, images and imagined worlds, born from the memory of artworks.', 'hero.explore': 'Explore the works', 'hero.featured': 'In the light',
     'listen.excerpt': 'Listen to an excerpt', 'listen.starry': 'Listen to Starry Signal', 'view.artwork': 'View the artwork',
-    'works.title': 'Selected works', 'works.subtitle': 'Four projects, one inquiry',
+    'works.title': 'Selected works', 'works.subtitle': 'Five projects, one inquiry',
+    'orwell.type': 'Velvet Index / Album coming soon', 'orwell.tagline': 'Intimacy under surveillance.', 'orwell.description': 'Inspired by George Orwell’s novel, 1984 explores desire, memory and tenderness as places of resistance. An album taking shape between modern new wave and electronic post-punk, with Golden Country as its first glimpse.', 'orwell.credit': 'Velvet Index is an imagined band created with artificial intelligence, under Onchainfinity’s artistic direction.', 'orwell.action': 'Discover 1984', 'orwell.alt': '1984 album cover by Velvet Index: a glass paperweight with red coral, against a dark wall crossed by light.', 'feature.orwell': 'Velvet Index · Golden Country',
     'afterimage.type': 'Painting / Electronic music', 'afterimage.description': 'A painting leaves us with more than an image. Afterimage gathers its resonances to compose electronic music, stories and moving images.', 'afterimage.action': 'Discover Afterimage',
     'robolution.type': 'Electronic music / Scientific memory', 'robolution.description': 'What will remain of us in the memory of machines? The founding texts of computer science become compositions that blend electronic textures with orchestral sweep.', 'robolution.action': 'Discover Robolution',
     'chat.type': 'Artbook / Images / Music', 'chat.description': 'In the Galerie de Babel, a cat wanders from one painted world to another. Images, story and music form an artbook at the edge of dreams.', 'chat.action': 'Visit the Galerie de Babel',
@@ -21,7 +22,8 @@ const translations = {
     skip: 'Aller aux œuvres', works: 'Œuvres', artist: 'L’artiste', correspondences: 'Correspondances', language: 'Langue', navigation: 'Navigation principale', menu: 'Ouvrir le menu', 'menu.close': 'Fermer le menu', close: 'Fermer', previous: 'Œuvre précédente', next: 'Œuvre suivante',
     'hero.eyebrow': 'Art / Musique / Mémoire culturelle', 'hero.line': 'Explorer nos traces dans l’IA. Révéler l’humain.', 'hero.description': 'Des musiques électroniques, des images et des mondes imaginaires, nés de la mémoire des œuvres.', 'hero.explore': 'Explorer les œuvres', 'hero.featured': 'En lumière',
     'listen.excerpt': 'Écouter un extrait', 'listen.starry': 'Écouter Starry Signal', 'view.artwork': 'Voir l’œuvre',
-    'works.title': 'Œuvres choisies', 'works.subtitle': 'Quatre projets, une même recherche',
+    'works.title': 'Œuvres choisies', 'works.subtitle': 'Cinq projets, une même recherche',
+    'orwell.type': 'Velvet Index / Album à venir', 'orwell.tagline': 'L’intime sous surveillance.', 'orwell.description': 'Inspiré du roman de George Orwell, 1984 explore le désir, la mémoire et la tendresse comme lieux de résistance. Un album en devenir, entre new wave moderne et post-punk électronique, dont Golden Country ouvre le premier passage.', 'orwell.credit': 'Velvet Index est un groupe imaginaire conçu avec l’intelligence artificielle, sous la direction artistique d’Onchainfinity.', 'orwell.action': 'Découvrir 1984', 'orwell.alt': 'Pochette de 1984 par Velvet Index : un presse-papiers de verre au corail rouge, devant un mur sombre traversé par la lumière.', 'feature.orwell': 'Velvet Index · Golden Country',
     'afterimage.type': 'Peinture / Musique électronique', 'afterimage.description': 'Une peinture laisse en nous plus qu’une image. Afterimage en recueille les résonances pour composer des musiques électroniques, des récits et des images en mouvement.', 'afterimage.action': 'Découvrir Afterimage',
     'robolution.type': 'Musique électronique / Mémoire scientifique', 'robolution.description': 'Que restera-t-il de nous dans la mémoire des machines ? Les textes fondateurs de l’informatique deviennent des compositions où se mêlent textures électroniques et souffle orchestral.', 'robolution.action': 'Découvrir Robolution',
     'chat.type': 'Livre d’art / Images / Musique', 'chat.description': 'Dans la Galerie de Babel, un chat chemine d’un monde pictural à l’autre. Images, récit et musique composent un livre d’art aux frontières du rêve.', 'chat.action': 'Visiter la Galerie de Babel',
@@ -38,7 +40,8 @@ const translations = {
     skip: '跳至作品', works: '作品', artist: '艺术家', correspondences: '交感', language: '语言', navigation: '主导航', menu: '打开菜单', 'menu.close': '关闭菜单', close: '关闭', previous: '上一件作品', next: '下一件作品',
     'hero.eyebrow': '艺术 / 音乐 / 文化记忆', 'hero.line': '探寻我们在人工智能中的痕迹。照见人性。', 'hero.description': '电子音乐、影像与想象的世界，诞生于作品的记忆。', 'hero.explore': '探索作品', 'hero.featured': '此刻呈现',
     'listen.excerpt': '聆听片段', 'listen.starry': '聆听 Starry Signal', 'view.artwork': '查看作品',
-    'works.title': '精选作品', 'works.subtitle': '四个项目，同一场探索',
+    'works.title': '精选作品', 'works.subtitle': '五个项目，同一场探索',
+    'orwell.type': 'Velvet Index / 专辑即将发行', 'orwell.tagline': '监视之下的亲密。', 'orwell.description': '以乔治·奥威尔的小说为灵感，1984 探索欲望、记忆与温柔如何成为抵抗的所在。这张尚在成形的专辑游走于现代新浪潮与电子后朋克之间，Golden Country 为它开启了第一道入口。', 'orwell.credit': 'Velvet Index 是一支在 Onchainfinity 的艺术指导下，借助人工智能构想而成的虚拟乐队。', 'orwell.action': '探索 1984', 'orwell.alt': 'Velvet Index 的 1984 专辑封面：内含红珊瑚的玻璃镇纸，背景是光线掠过的暗色墙壁。', 'feature.orwell': 'Velvet Index · Golden Country',
     'afterimage.type': '绘画 / 电子音乐', 'afterimage.description': '一幅画留在我们心中的，不止是一幅图像。Afterimage 收集它的回响，将其谱写为电子音乐、故事与流动的影像。', 'afterimage.action': '探索 Afterimage',
     'robolution.type': '电子音乐 / 科学记忆', 'robolution.description': '在机器的记忆中，我们将留下些什么？计算机科学的奠基文献化为乐曲，电子声响的肌理与管弦乐的气韵交织其间。', 'robolution.action': '探索 Robolution',
     'chat.type': '艺术画册 / 图像 / 音乐', 'chat.description': '在巴别画廊，一只猫从一个绘画世界漫步至另一个。图像、叙事与音乐，共同构成一本游走于梦境边缘的艺术画册。', 'chat.action': '走进巴别画廊',
@@ -55,7 +58,8 @@ const translations = {
     skip: '作品へ移動', works: '作品', artist: 'アーティスト', correspondences: '照応', language: '言語', navigation: 'メインナビゲーション', menu: 'メニューを開く', 'menu.close': 'メニューを閉じる', close: '閉じる', previous: '前の作品', next: '次の作品',
     'hero.eyebrow': 'アート / 音楽 / 文化の記憶', 'hero.line': 'AIに残る私たちの痕跡をたどる。人間らしさを映し出す。', 'hero.description': '作品の記憶から生まれる電子音楽、イメージ、そして想像の世界。', 'hero.explore': '作品をめぐる', 'hero.featured': '光をあてる作品',
     'listen.excerpt': '試聴する', 'listen.starry': 'Starry Signal を聴く', 'view.artwork': '作品を見る',
-    'works.title': '作品選', 'works.subtitle': '四つのプロジェクト、一つの探求',
+    'works.title': '作品選', 'works.subtitle': '五つのプロジェクト、一つの探求',
+    'orwell.type': 'Velvet Index / アルバム近日公開', 'orwell.tagline': '監視下の親密さ。', 'orwell.description': 'ジョージ・オーウェルの小説に着想を得た1984は、欲望、記憶、優しさを抵抗の場として見つめる。現代的なニューウェーブとエレクトロニック・ポストパンクのあいだで形づくられるアルバムへ、Golden Countryが最初の入口を開く。', 'orwell.credit': 'Velvet Indexは、Onchainfinityの芸術的なディレクションのもと、AIとともに構想された架空のバンド。', 'orwell.action': '1984 を探る', 'orwell.alt': 'Velvet Indexの1984のジャケット。光が差す暗い壁を背に、赤い珊瑚を閉じ込めたガラスのペーパーウェイト。', 'feature.orwell': 'Velvet Index · Golden Country',
     'afterimage.type': '絵画 / 電子音楽', 'afterimage.description': '一枚の絵が私たちに残すのは、イメージだけではない。Afterimageはその響きを受けとめ、電子音楽、物語、動くイメージへと紡いでいく。', 'afterimage.action': 'Afterimage を探る',
     'robolution.type': '電子音楽 / 科学の記憶', 'robolution.description': '機械の記憶に、私たちの何が残るのだろう。計算機科学の礎となった文献が、電子音の質感と管弦楽の息づかいが溶け合う楽曲へと姿を変える。', 'robolution.action': 'Robolution を探る',
     'chat.type': 'アートブック / イメージ / 音楽', 'chat.description': 'バベルの画廊で、一匹の猫が絵画の世界から別の絵画の世界へと歩いていく。イメージ、物語、音楽が織りなす、夢のほとりのアートブック。', 'chat.action': 'バベルの画廊へ',
@@ -71,6 +75,7 @@ const translations = {
 };
 
 const features = [
+  { id: 'nineteen-eighty-four', name: '1984', image: '1984-cover.webp', alt: 'orwell.alt', detail: 'feature.orwell', position: '50% 78%', audio: { title: 'Golden Country', file: 'golden-country-excerpt.mp3' } },
   { id: 'afterimage', name: 'Afterimage', image: 'starry-night.jpg', alt: 'starry.alt', detail: 'feature.afterimage', position: '50% 58%', audio: { title: 'Starry Signal', file: 'starry-signal-excerpt.mp3' } },
   { id: 'robolution', name: 'Robolution', image: 'entropy-overture.jpg', alt: 'entropy.alt', detail: 'feature.robolution', position: '50% 48%', audio: { title: 'Entropy Overture', file: 'entropy-overture-excerpt.mp3' } },
   { id: 'prompt-chat', name: 'Prompt Chat sur Toile', image: 'prompt-chat.jpg', alt: 'chat.alt', detail: 'feature.chat', position: '50% 65%', audio: { title: 'La Galerie de Babel', file: 'galerie-de-babel-excerpt.mp3' } },
@@ -159,7 +164,7 @@ function updateFeatureText() {
   $('#feature-name').textContent = feature.name;
   $('#feature-link').href = `#${feature.id}`;
   $('#feature-detail').textContent = t(feature.detail);
-  $('#feature-count').textContent = `${String(featureIndex + 1).padStart(2, '0')} / 04`;
+  $('#feature-count').textContent = `${String(featureIndex + 1).padStart(2, '0')} / ${String(features.length).padStart(2, '0')}`;
   $('.hero-image.is-active').alt = t(feature.alt);
   updateAudioText();
 }

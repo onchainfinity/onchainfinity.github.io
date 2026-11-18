@@ -83,6 +83,14 @@ h1,h2,h3{font-family:var(--serif);font-weight:400;line-height:1.06}
 .text-link{display:inline-flex;align-items:center;justify-content:space-between;gap:32px;border-bottom:1px solid #75776f;padding:12px 0 9px;font-size:12px;text-align:left;margin-top:15px}
 .text-link svg{width:16px;height:16px}
 .work-pair{display:grid;grid-template-columns:1fr .82fr;gap:12%;margin-top:104px}
+.orwell{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1fr);gap:10%;align-items:center;padding-bottom:80px;margin-bottom:80px;border-bottom:1px solid var(--line)}
+.orwell-cover{aspect-ratio:960/1706;width:100%;max-width:360px;justify-self:center}
+.orwell-copy{max-width:470px}
+.orwell-tagline{font-family:var(--serif);font-size:32px;line-height:1.25;margin-top:28px}
+.orwell-copy .project-copy{margin-top:20px}
+.orwell-credit{font-size:12px;line-height:1.8;color:var(--muted);margin-top:20px}
+.project-actions{display:flex;flex-wrap:wrap;gap:0 32px}
+@media(max-width:760px){.orwell{grid-template-columns:1fr;gap:32px;padding-bottom:52px;margin-bottom:52px}.orwell-cover{max-width:320px}.orwell-copy{max-width:none}.orwell-tagline{font-size:28px;margin-top:20px}.hero-image[src$="1984-cover.webp"]{transform:scale(1.4);transform-origin:center bottom}}
 .square{aspect-ratio:1}
 .portrait{aspect-ratio:1055/1400}
 .prompt-chat{margin-top:135px}
