@@ -38,8 +38,8 @@ h1,h2,h3{font-family:var(--serif);font-weight:400;line-height:1.06}
 .menu-button,.mobile-nav{display:none}
 .hero{position:relative;isolation:isolate;height:calc(100svh - 75px);min-height:660px;max-height:1000px;overflow:hidden;color:white}
 .hero-image,.hero-shade{position:absolute;inset:0;width:100%;height:100%;z-index:-1}
-.hero-image{object-fit:cover;object-position:50% 58%;transition:opacity .25s ease}
-.hero-image.is-changing{opacity:.35}
+.hero-image{object-fit:cover;object-position:50% 58%;opacity:0;transition:opacity 1.4s ease}
+.hero-image.is-active{opacity:1}
 .hero-shade{background:#080d0a33}
 .hero-intro{position:absolute;left:var(--gutter);right:var(--gutter);bottom:172px;max-width:900px;text-shadow:0 2px 24px #0009}
 .hero-intro .eyebrow{margin-bottom:10px}
@@ -59,6 +59,8 @@ h1,h2,h3{font-family:var(--serif);font-weight:400;line-height:1.06}
 .hero-listen:hover .round-play{background:var(--accent);border-color:var(--accent);color:var(--bg)}
 .hero-listen strong,.hero-listen small{display:block;font-size:12px;font-weight:400}
 .hero-listen small{font-size:10px;opacity:.8;margin-top:2px}
+.player-status{flex-basis:100%;grid-column:1/-1;font-size:12px;color:var(--accent)}
+.player-status:empty{display:none}
 .section-heading{display:flex;align-items:baseline;justify-content:space-between;gap:24px;margin-bottom:48px}
 .section-heading h2{font-size:36px}
 .section-heading>.eyebrow{color:var(--muted)}
@@ -121,12 +123,12 @@ h1,h2,h3{font-family:var(--serif);font-weight:400;line-height:1.06}
 .footer-links a{display:flex;gap:24px;align-items:center;justify-content:space-between;width:100%}
 .footer-links svg{width:14px;height:14px}
 .footer-links>span{color:var(--muted);margin-top:8px}
-.audio-player{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);z-index:25;width:min(760px,calc(100% - 32px));padding:14px 16px;background:#e5e7e2;color:#20241f;border:1px solid #fff5;box-shadow:0 12px 50px #0008;display:flex;align-items:center;gap:20px;color-scheme:light}
+.audio-player{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);z-index:25;width:min(760px,calc(100% - 32px));padding:14px 16px;background:#e5e7e2;color:#20241f;border:1px solid #fff5;box-shadow:0 12px 50px #0008;display:flex;flex-wrap:wrap;align-items:center;gap:20px;color-scheme:light}
 .player-info{display:flex;align-items:center;gap:12px;min-width:208px}
 .player-info img{height:48px;width:48px;object-fit:cover}
 .player-info strong,.player-info span{display:block;font-size:12px;font-weight:400}
 .player-info span{font-size:10px;margin-top:4px;color:#565d51}
-.audio-player audio{width:100%;height:38px;min-width:0}
+.audio-player audio{flex:1;width:100%;height:38px;min-width:0}
 .audio-player>.icon-button{width:30px;height:30px}
 dialog{border:1px solid var(--line);background:var(--bg);color:var(--ink);padding:28px;max-height:92svh;max-width:calc(100vw - 32px)}
 dialog::backdrop{background:#080a08e8;backdrop-filter:blur(5px)}
@@ -154,4 +156,7 @@ html[lang=zh] .artist-lead,html[lang=ja] .artist-lead{font-size:25px;line-height
 @media(max-height:620px) and (min-width:761px){.hero h1{font-size:80px}.hero-line{font-size:24px;margin-top:12px}.hero-description{font-size:12px}.hero-intro{bottom:125px}.hero-listen{bottom:130px}.header{height:64px}}
 @media(max-height:740px) and (max-width:760px){.hero-intro{bottom:202px}.hero-listen{bottom:112px}.hero-bottom{bottom:15px}.hero-line{margin-top:12px}.hero-description{margin-top:12px}.hero-explore{margin-top:2px}}
 @media(max-height:620px) and (max-width:760px){.hero h1{font-size:54px}.hero-line{font-size:22px}.hero-description{font-size:12px;margin-top:10px}.hero-intro{bottom:188px}.hero-listen{bottom:105px}.hero-listen .round-play{width:40px;height:40px}.header{height:60px}.mobile-nav{top:60px}.hero-explore{padding-top:9px}.hero-bottom{padding-top:10px}.hero .eyebrow{font-size:9px}html[lang=zh] .hero-line,html[lang=ja] .hero-line{font-size:20px}}
+@media(max-width:760px){.feature-controls{display:grid;grid-template-columns:repeat(2,32px)}#feature-toggle{grid-column:1/-1;justify-self:end}}
+@media(max-height:740px) and (max-width:760px){.hero-listen{bottom:132px}}
+@media(max-height:620px) and (max-width:760px){.hero-listen{bottom:130px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}

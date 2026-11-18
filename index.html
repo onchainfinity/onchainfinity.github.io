@@ -17,9 +17,9 @@
   <meta property="og:image:alt" content="Robolution 000, an album by Onchainfinity">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="preload" href="./assets/instrument-serif.ttf" as="font" type="font/ttf" crossorigin>
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./styles.css?v=slow-slider-1">
   <script defer src="./vendor/lucide.min.js"></script>
-  <script defer src="./script.js?v=slogan-i18n-1"></script>
+  <script defer src="./script.js?v=slow-slider-1"></script>
 </head>
 <body>
   <a class="skip-link" href="#works" data-i18n="skip">Skip to the works</a>
@@ -45,7 +45,8 @@
 
   <main>
     <section class="hero" id="top" aria-labelledby="hero-title">
-      <img class="hero-image" id="hero-image" src="./assets/starry-night.jpg" alt="The Starry Night by Vincent van Gogh, source painting for Starry Signal" fetchpriority="high" width="2200" height="1742">
+      <img class="hero-image is-active" id="hero-image" src="./assets/starry-night.jpg" alt="The Starry Night by Vincent van Gogh, source painting for Starry Signal" fetchpriority="high" width="2200" height="1742">
+      <img class="hero-image" id="hero-image-next" alt="" aria-hidden="true" width="2200" height="1742">
       <div class="hero-shade" aria-hidden="true"></div>
       <div class="hero-intro">
         <p class="eyebrow" data-i18n="hero.eyebrow">Art / Music / Cultural memory</p>
@@ -56,9 +57,9 @@
       </div>
       <div class="hero-bottom">
         <div class="feature-caption" aria-live="polite" aria-atomic="true"><span class="eyebrow" data-i18n="hero.featured">In the light</span><a id="feature-link" href="#afterimage"><span id="feature-name">Afterimage</span><i data-lucide="arrow-up-right" aria-hidden="true"></i></a><span id="feature-detail">Starry Signal · After Vincent van Gogh</span></div>
-        <div class="feature-controls"><span id="feature-count" class="mono">01 / 04</span><button class="icon-button" id="feature-prev" aria-label="Previous work" data-label="previous"><i data-lucide="arrow-left" aria-hidden="true"></i></button><button class="icon-button" id="feature-next" aria-label="Next work" data-label="next"><i data-lucide="arrow-right" aria-hidden="true"></i></button></div>
+        <div class="feature-controls"><span id="feature-count" class="mono">01 / 04</span><button class="icon-button" id="feature-toggle" aria-label="Pause slideshow" title="Pause slideshow"><i data-lucide="pause" aria-hidden="true"></i></button><button class="icon-button" id="feature-prev" aria-label="Previous work" data-label="previous"><i data-lucide="arrow-left" aria-hidden="true"></i></button><button class="icon-button" id="feature-next" aria-label="Next work" data-label="next"><i data-lucide="arrow-right" aria-hidden="true"></i></button></div>
       </div>
-      <button class="hero-listen" data-play><span class="round-play"><i data-lucide="play" aria-hidden="true"></i></span><span><strong data-i18n="listen.excerpt">Listen to an excerpt</strong><small>Starry Signal <span aria-hidden="true">/</span> 0:45</small></span></button>
+      <button class="hero-listen" data-play="featured"><span class="round-play"><i data-lucide="play" aria-hidden="true"></i></span><span><strong id="feature-listen-label">Listen to an excerpt</strong><small id="feature-track">Starry Signal / 0:45</small></span></button>
     </section>
 
     <section class="works section-shell" id="works" aria-labelledby="works-title">
@@ -67,7 +68,7 @@
       <article class="afterimage" id="afterimage">
         <div class="work-media landscape">
           <img src="./assets/starry-night.jpg" alt="The Starry Night by Vincent van Gogh" data-alt="starry.alt" width="2200" height="1742" loading="lazy">
-          <button class="media-play" data-play aria-label="Listen to Starry Signal" data-label="listen.starry"><i data-lucide="play" aria-hidden="true"></i><span>Starry Signal</span></button>
+          <button class="media-play" data-play="afterimage" aria-label="Listen to Starry Signal"><i data-lucide="play" aria-hidden="true"></i><span>Starry Signal</span></button>
           <button class="icon-button expand-image" data-image="starry-night.jpg" data-caption="starry.caption" aria-label="View the artwork" data-label="view.artwork"><i data-lucide="expand" aria-hidden="true"></i></button>
         </div>
         <p class="source-credit" data-i18n="starry.caption">Vincent van Gogh, The Starry Night, 1889. Source painting for Starry Signal, Afterimage.</p>
@@ -111,7 +112,7 @@
 
   <footer class="footer section-shell"><div><a class="wordmark" href="#top">Onchainfinity<span class="brand-dot" aria-hidden="true"></span></a><p data-i18n="footer.line">Explore our traces in AI. Reveal our humanity.</p></div><div class="footer-links"><a href="https://release.landr.com/991048816534" target="_blank" rel="noopener noreferrer"><span data-i18n="footer.listen">Listen to Robolution 000</span><i data-lucide="arrow-up-right" aria-hidden="true"></i></a><a href="https://youtu.be/ytMuXMNn-OU" target="_blank" rel="noopener noreferrer">Starry Signal · YouTube<i data-lucide="arrow-up-right" aria-hidden="true"></i></a><span>© Onchainfinity</span></div></footer>
 
-  <aside class="audio-player" id="audio-player" hidden aria-label="Audio player" data-label="player"><div class="player-info"><img src="./assets/starry-night.jpg" width="48" height="48" alt=""><div><strong>Starry Signal</strong><span data-i18n="player.caption">Afterimage · 45-second excerpt</span></div></div><audio id="audio" controls preload="none" src="./assets/starry-signal-excerpt.mp3"></audio><button class="icon-button" id="close-player" aria-label="Close player" data-label="player.close"><i data-lucide="x" aria-hidden="true"></i></button><p id="audio-status" class="sr-only" role="status"></p></aside>
+  <aside class="audio-player" id="audio-player" hidden aria-label="Audio player" data-label="player"><div class="player-info"><img id="player-image" src="./assets/starry-night.jpg" width="48" height="48" alt=""><div><strong id="player-title">Starry Signal</strong><span id="player-caption">Afterimage · 45-second excerpt</span></div></div><audio id="audio" controls preload="none"></audio><button class="icon-button" id="close-player" aria-label="Close player" data-label="player.close"><i data-lucide="x" aria-hidden="true"></i></button><p id="audio-status" class="player-status" role="status"></p></aside>
 
   <dialog id="art-dialog" class="art-dialog" aria-labelledby="art-caption"><button class="icon-button dialog-close" data-close aria-label="Close" data-label="close"><i data-lucide="x" aria-hidden="true"></i></button><img id="art-image" alt=""><p id="art-caption"></p></dialog>
   <dialog id="book-dialog" class="book-dialog" aria-labelledby="book-dialog-title"><div class="dialog-header"><div><p class="eyebrow" data-i18n="book.note">Original edition in French</p><h2 id="book-dialog-title">Prompt BaudelAIre</h2></div><button class="icon-button" data-close aria-label="Close" data-label="close"><i data-lucide="x" aria-hidden="true"></i></button></div><div class="book-pages"><img id="book-page-left" src="./assets/baudelaire-032.jpg" alt=""><img id="book-page-right" src="./assets/baudelaire-033.jpg" alt=""></div><div class="book-toolbar"><button class="icon-button" id="book-prev" aria-label="Previous pages" data-label="book.previous"><i data-lucide="arrow-left" aria-hidden="true"></i></button><span id="book-counter" class="mono"></span><button class="icon-button" id="book-next" aria-label="Next pages" data-label="book.next"><i data-lucide="arrow-right" aria-hidden="true"></i></button><a href="https://www.amazon.fr/dp/B0CHL1C7G9" target="_blank" rel="noopener noreferrer"><span data-i18n="book.buy">Find the book on Amazon</span><i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div></dialog>

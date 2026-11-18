@@ -14,7 +14,8 @@ const translations = {
     'footer.line': 'Explore our traces in AI. Reveal our humanity.', 'footer.listen': 'Listen to Robolution 000', player: 'Audio player', 'player.caption': 'Afterimage · 45-second excerpt', 'player.close': 'Close player', 'player.error': 'Playback could not start. Use the player controls to try again.',
     'starry.alt': 'The Starry Night by Vincent van Gogh', 'starry.caption': 'Vincent van Gogh, The Starry Night, 1889. Source painting for Starry Signal, Afterimage.', 'robolution.alt': 'Robolution 000 album cover', 'entropy.alt': 'Entropy Overture, artwork from Robolution 000', 'chat.alt': 'A black cat in the painted architecture of the Galerie de Babel', 'book.left': "L'homme et la mer, a page from Prompt BaudelAIre", 'book.right': 'Illustration from Prompt BaudelAIre: a figure facing the sea', 'book.page.alt': 'Prompt BaudelAIre, original French edition, PDF page',
     'feature.afterimage': 'Starry Signal · After Vincent van Gogh', 'feature.robolution': 'Entropy Overture · Robolution 000', 'feature.chat': 'An illustrated journey · Galerie de Babel', 'feature.book': 'L’homme et la mer · Illustrated poetry',
-    title: 'Onchainfinity | Works of Memory', 'book.buy': 'Find the book on Amazon'
+    title: 'Onchainfinity | Works of Memory', 'book.buy': 'Find the book on Amazon',
+    'slideshow.pause': 'Pause slideshow', 'slideshow.resume': 'Resume slideshow', 'listen.pause': 'Pause excerpt', 'excerpt.duration': '45-second excerpt'
   },
   fr: {
     skip: 'Aller aux œuvres', works: 'Œuvres', artist: 'L’artiste', correspondences: 'Correspondances', language: 'Langue', navigation: 'Navigation principale', menu: 'Ouvrir le menu', 'menu.close': 'Fermer le menu', close: 'Fermer', previous: 'Œuvre précédente', next: 'Œuvre suivante',
@@ -30,7 +31,8 @@ const translations = {
     'footer.line': 'Explorer nos traces dans l’IA. Révéler l’humain.', 'footer.listen': 'Écouter Robolution 000', player: 'Lecteur audio', 'player.caption': 'Afterimage · extrait de 45 secondes', 'player.close': 'Fermer le lecteur', 'player.error': 'La lecture n’a pas pu démarrer. Vous pouvez réessayer à l’aide des commandes du lecteur.',
     'starry.alt': 'La Nuit étoilée de Vincent van Gogh', 'starry.caption': 'Vincent van Gogh, La Nuit étoilée (1889). Tableau à l’origine de Starry Signal, dans la série Afterimage.', 'robolution.alt': 'Pochette de l’album Robolution 000', 'entropy.alt': 'Entropy Overture, illustration de l’album Robolution 000', 'chat.alt': 'Un chat noir traverse les décors peints de la Galerie de Babel', 'book.left': 'L’Homme et la Mer, une page de Prompt BaudelAIre', 'book.right': 'Illustration de Prompt BaudelAIre : une silhouette face à la mer', 'book.page.alt': 'Prompt BaudelAIre, édition originale en français, page du PDF',
     'feature.afterimage': 'Starry Signal · D’après Vincent van Gogh', 'feature.robolution': 'Entropy Overture · Robolution 000', 'feature.chat': 'Un voyage illustré · Galerie de Babel', 'feature.book': 'L’Homme et la Mer · Poésie illustrée',
-    title: 'Onchainfinity | Œuvres de mémoire', 'book.buy': 'Découvrir le livre sur Amazon'
+    title: 'Onchainfinity | Œuvres de mémoire', 'book.buy': 'Découvrir le livre sur Amazon',
+    'slideshow.pause': 'Suspendre le défilement', 'slideshow.resume': 'Reprendre le défilement', 'listen.pause': 'Mettre l’extrait en pause', 'excerpt.duration': 'extrait de 45 secondes'
   },
   zh: {
     skip: '跳至作品', works: '作品', artist: '艺术家', correspondences: '交感', language: '语言', navigation: '主导航', menu: '打开菜单', 'menu.close': '关闭菜单', close: '关闭', previous: '上一件作品', next: '下一件作品',
@@ -46,7 +48,8 @@ const translations = {
     'footer.line': '探寻我们在人工智能中的痕迹。照见人性。', 'footer.listen': '聆听 Robolution 000', player: '音频播放器', 'player.caption': 'Afterimage · 45 秒片段', 'player.close': '关闭播放器', 'player.error': '未能开始播放，请使用播放器控件重试。',
     'starry.alt': '文森特·梵高的《星月夜》', 'starry.caption': '文森特·梵高，《星月夜》，1889 年。Afterimage 项目中 Starry Signal 的原作。', 'robolution.alt': 'Robolution 000 专辑封面', 'entropy.alt': 'Entropy Overture，Robolution 000 的视觉作品', 'chat.alt': '巴别画廊的绘画建筑中，一只黑猫穿行其间', 'book.left': 'Prompt BaudelAIre 中《人与海》的一页', 'book.right': 'Prompt BaudelAIre 插画：面朝大海的身影', 'book.page.alt': 'Prompt BaudelAIre，法语原版，PDF 页码',
     'feature.afterimage': 'Starry Signal · 源自文森特·梵高', 'feature.robolution': 'Entropy Overture · Robolution 000', 'feature.chat': '图像之旅 · 巴别画廊', 'feature.book': '人与海 · 诗歌插画',
-    title: 'Onchainfinity | 记忆之作', 'book.buy': '在 Amazon 查看书籍'
+    title: 'Onchainfinity | 记忆之作', 'book.buy': '在 Amazon 查看书籍',
+    'slideshow.pause': '暂停轮播', 'slideshow.resume': '继续轮播', 'listen.pause': '暂停试听', 'excerpt.duration': '45 秒片段'
   },
   ja: {
     skip: '作品へ移動', works: '作品', artist: 'アーティスト', correspondences: '照応', language: '言語', navigation: 'メインナビゲーション', menu: 'メニューを開く', 'menu.close': 'メニューを閉じる', close: '閉じる', previous: '前の作品', next: '次の作品',
@@ -62,14 +65,15 @@ const translations = {
     'footer.line': 'AIに残る私たちの痕跡をたどる。人間らしさを映し出す。', 'footer.listen': 'Robolution 000 を聴く', player: '音声プレーヤー', 'player.caption': 'Afterimage · 45秒の抜粋', 'player.close': 'プレーヤーを閉じる', 'player.error': '再生を開始できませんでした。プレーヤーの操作で再試行してください。',
     'starry.alt': 'フィンセント・ファン・ゴッホの《星月夜》', 'starry.caption': 'フィンセント・ファン・ゴッホ《星月夜》、1889年。Afterimage の Starry Signal の原点となる絵画。', 'robolution.alt': 'アルバム Robolution 000 のジャケット', 'entropy.alt': 'Entropy Overture、Robolution 000 のアートワーク', 'chat.alt': 'バベルの画廊の描かれた建築を歩く黒猫', 'book.left': 'Prompt BaudelAIre の「人間と海」のページ', 'book.right': 'Prompt BaudelAIre の挿画：海に向き合う人影', 'book.page.alt': 'Prompt BaudelAIre、フランス語原版、PDFページ',
     'feature.afterimage': 'Starry Signal · ゴッホの絵画から', 'feature.robolution': 'Entropy Overture · Robolution 000', 'feature.chat': 'イメージの旅 · バベルの画廊', 'feature.book': '人間と海 · 詩と挿画',
-    title: 'Onchainfinity | 記憶の作品', 'book.buy': 'Amazon で書籍を見る'
+    title: 'Onchainfinity | 記憶の作品', 'book.buy': 'Amazon で書籍を見る',
+    'slideshow.pause': 'スライドショーを一時停止', 'slideshow.resume': 'スライドショーを再開', 'listen.pause': '試聴を一時停止', 'excerpt.duration': '45秒の抜粋'
   }
 };
 
 const features = [
-  { id: 'afterimage', name: 'Afterimage', image: 'starry-night.jpg', alt: 'starry.alt', detail: 'feature.afterimage', position: '50% 58%' },
-  { id: 'robolution', name: 'Robolution', image: 'entropy-overture.jpg', alt: 'entropy.alt', detail: 'feature.robolution', position: '50% 48%' },
-  { id: 'prompt-chat', name: 'Prompt Chat sur Toile', image: 'prompt-chat.jpg', alt: 'chat.alt', detail: 'feature.chat', position: '50% 65%' },
+  { id: 'afterimage', name: 'Afterimage', image: 'starry-night.jpg', alt: 'starry.alt', detail: 'feature.afterimage', position: '50% 58%', audio: { title: 'Starry Signal', file: 'starry-signal-excerpt.mp3' } },
+  { id: 'robolution', name: 'Robolution', image: 'entropy-overture.jpg', alt: 'entropy.alt', detail: 'feature.robolution', position: '50% 48%', audio: { title: 'Entropy Overture', file: 'entropy-overture-excerpt.mp3' } },
+  { id: 'prompt-chat', name: 'Prompt Chat sur Toile', image: 'prompt-chat.jpg', alt: 'chat.alt', detail: 'feature.chat', position: '50% 65%', audio: { title: 'La Galerie de Babel', file: 'galerie-de-babel-excerpt.mp3' } },
   { id: 'prompt-baudelaire', name: 'Prompt BaudelAIre', image: 'baudelaire-034.jpg', alt: 'book.right', detail: 'feature.book', position: '50% 48%' }
 ];
 const $ = (selector) => document.querySelector(selector);
@@ -89,6 +93,66 @@ const bookSpreads = [[32, 33], [34, 35]];
 let lastDialogTrigger = null;
 const t = (key) => translations[language][key] ?? translations.en[key] ?? key;
 const icons = () => window.lucide?.createIcons({ attrs: { 'aria-hidden': 'true' } });
+const slideDelay = 20000;
+const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+let rotationEnabled = !reducedMotion.matches;
+let rotationTimer = null;
+let heroVisible = true;
+let controlHovered = false;
+let keyboardFocused = false;
+let featureLoading = false;
+let audioFeature = null;
+let audioPending = false;
+let audioRequest = 0;
+let lastAudioTrigger = null;
+
+function setButtonIcon(button, name) {
+  if (button.dataset.icon === name) return;
+  button.dataset.icon = name;
+  const holder = button.querySelector('.round-play') || button;
+  holder.querySelector('svg, i')?.remove();
+  const icon = document.createElement('i');
+  icon.dataset.lucide = name;
+  icon.setAttribute('aria-hidden', 'true');
+  holder.prepend(icon);
+  icons();
+}
+
+function updateAudioText() {
+  const audio = $('#audio');
+  document.querySelectorAll('[data-play]').forEach((button) => {
+    const feature = button.dataset.play === 'featured' ? features[featureIndex] : features.find((item) => item.id === button.dataset.play);
+    button.hidden = !feature?.audio;
+    if (!feature?.audio) return;
+    const playing = audioFeature === feature && (audioPending || !audio.paused) && !audio.ended;
+    const label = t(playing ? 'listen.pause' : 'listen.excerpt');
+    button.setAttribute('aria-label', `${label} · ${feature.audio.title}`);
+    button.title = `${label} · ${feature.audio.title}`;
+    setButtonIcon(button, playing ? 'pause' : 'play');
+    if (button.dataset.play === 'featured') {
+      $('#feature-listen-label').textContent = label;
+      $('#feature-track').textContent = `${feature.audio.title} / 0:45`;
+    }
+  });
+  if (audioFeature) {
+    $('#player-title').textContent = audioFeature.audio.title;
+    $('#player-caption').textContent = `${audioFeature.name} · ${t('excerpt.duration')}`;
+    $('#player-image').src = `./assets/${audioFeature.image}`;
+  }
+}
+
+function scheduleRotation() {
+  clearTimeout(rotationTimer);
+  rotationTimer = null;
+  const audio = $('#audio');
+  const canRotate = rotationEnabled && !document.hidden && heroVisible && !featureLoading && !controlHovered && !keyboardFocused && !audioPending && (audio.paused || audio.ended) && $('#mobile-nav').hidden && !document.querySelector('dialog[open]');
+  const label = t(rotationEnabled ? 'slideshow.pause' : 'slideshow.resume');
+  $('#feature-toggle').setAttribute('aria-label', label);
+  $('#feature-toggle').title = label;
+  setButtonIcon($('#feature-toggle'), rotationEnabled ? 'pause' : 'play');
+  $('.feature-caption').setAttribute('aria-live', canRotate ? 'off' : 'polite');
+  if (canRotate) rotationTimer = setTimeout(() => setFeature(featureIndex + 1), slideDelay);
+}
 
 function updateFeatureText() {
   const feature = features[featureIndex];
@@ -96,7 +160,8 @@ function updateFeatureText() {
   $('#feature-link').href = `#${feature.id}`;
   $('#feature-detail').textContent = t(feature.detail);
   $('#feature-count').textContent = `${String(featureIndex + 1).padStart(2, '0')} / 04`;
-  $('#hero-image').alt = t(feature.alt);
+  $('.hero-image.is-active').alt = t(feature.alt);
+  updateAudioText();
 }
 
 function setFeature(index, animate = true) {
@@ -104,18 +169,33 @@ function setFeature(index, animate = true) {
   requestedFeatureIndex = nextIndex;
   const feature = features[nextIndex];
   const request = ++featureRequest;
+  featureLoading = true;
+  scheduleRotation();
   const image = new Image();
   image.onload = () => {
     if (request !== featureRequest) return;
     featureIndex = nextIndex;
-    const hero = $('#hero-image');
-    hero.src = image.src;
-    hero.style.objectPosition = feature.position;
-    hero.classList.remove('is-changing');
+    const current = $('.hero-image.is-active');
+    const incoming = animate ? $('.hero-image:not(.is-active)') : current;
+    incoming.src = image.src;
+    incoming.style.objectPosition = feature.position;
+    incoming.alt = t(feature.alt);
+    if (incoming !== current) {
+      current.classList.remove('is-active');
+      current.setAttribute('aria-hidden', 'true');
+    }
+    incoming.classList.add('is-active');
+    incoming.removeAttribute('aria-hidden');
+    featureLoading = false;
     updateFeatureText();
+    scheduleRotation();
   };
-  image.onerror = () => $('#hero-image').classList.remove('is-changing');
-  if (animate) $('#hero-image').classList.add('is-changing');
+  image.onerror = () => {
+    if (request !== featureRequest) return;
+    requestedFeatureIndex = featureIndex;
+    featureLoading = false;
+    scheduleRotation();
+  };
   image.src = `./assets/${feature.image}`;
 }
 
@@ -145,6 +225,7 @@ function setLanguage(code) {
   updateBook();
   if ($('#art-dialog').open) $('#art-caption').textContent = t($('#art-dialog').dataset.caption);
   storage.set('onchainfinity-atelier-language', language);
+  scheduleRotation();
 }
 
 function setMenu(open) {
@@ -154,31 +235,98 @@ function setMenu(open) {
   $('#menu-toggle').title = t(open ? 'menu.close' : 'menu');
   $('#menu-toggle').innerHTML = `<i data-lucide="${open ? 'x' : 'menu'}" aria-hidden="true"></i>`;
   icons();
+  scheduleRotation();
 }
 
 function openDialog(dialog, trigger) {
   lastDialogTrigger = trigger;
   document.body.classList.add('modal-open');
   dialog.showModal();
+  scheduleRotation();
 }
 
 $('#language').addEventListener('change', (event) => setLanguage(event.target.value));
 $('#feature-prev').addEventListener('click', () => setFeature(requestedFeatureIndex - 1));
 $('#feature-next').addEventListener('click', () => setFeature(requestedFeatureIndex + 1));
+$('#feature-toggle').addEventListener('click', () => {
+  rotationEnabled = !rotationEnabled;
+  if (rotationEnabled) { keyboardFocused = false; controlHovered = false; }
+  scheduleRotation();
+});
+document.addEventListener('visibilitychange', scheduleRotation);
+reducedMotion.addEventListener('change', (event) => {
+  if (event.matches) rotationEnabled = false;
+  scheduleRotation();
+});
+new IntersectionObserver(([entry]) => {
+  heroVisible = entry.isIntersecting;
+  scheduleRotation();
+}, { threshold: 0.1 }).observe($('.hero'));
+document.querySelectorAll('.feature-controls, .hero-listen').forEach((element) => {
+  element.addEventListener('pointerenter', (event) => { if (event.pointerType === 'mouse') { controlHovered = true; scheduleRotation(); } });
+  element.addEventListener('pointerleave', () => { controlHovered = false; scheduleRotation(); });
+});
+$('.hero').addEventListener('focusin', (event) => { keyboardFocused = event.target.matches(':focus-visible'); scheduleRotation(); });
+$('.hero').addEventListener('focusout', () => { keyboardFocused = false; scheduleRotation(); });
 $('#menu-toggle').addEventListener('click', () => setMenu($('#mobile-nav').hidden));
 $('#mobile-nav').querySelectorAll('a').forEach((link) => link.addEventListener('click', () => setMenu(false)));
 document.addEventListener('keydown', (event) => { if (event.key === 'Escape' && !$('#mobile-nav').hidden) { setMenu(false); $('#menu-toggle').focus(); } });
 window.matchMedia('(min-width: 761px)').addEventListener('change', (event) => { if (event.matches) setMenu(false); });
 
-document.querySelectorAll('[data-play]').forEach((button) => button.addEventListener('click', async () => {
+async function playExcerpt(feature, button) {
+  if (!feature?.audio) return;
+  const request = ++audioRequest;
+  const audio = $('#audio');
+  if (audioFeature === feature && (audioPending || !audio.paused)) {
+    audioPending = false;
+    audio.pause();
+    updateAudioText();
+    scheduleRotation();
+    return;
+  }
+  const changed = audioFeature !== feature;
+  audioFeature = feature;
+  audioPending = true;
+  lastAudioTrigger = button;
   $('#audio-player').hidden = false;
   $('#audio-status').textContent = '';
-  try { await $('#audio').play(); } catch { $('#audio-status').textContent = t('player.error'); }
+  if (changed) {
+    audio.pause();
+    audio.src = `./assets/${feature.audio.file}`;
+    audio.load();
+  }
+  updateAudioText();
+  scheduleRotation();
+  try { await audio.play(); } catch (error) {
+    if (request === audioRequest && error.name !== 'AbortError') $('#audio-status').textContent = t('player.error');
+  } finally {
+    if (request === audioRequest) {
+      audioPending = false;
+      updateAudioText();
+      scheduleRotation();
+    }
+  }
+}
+document.querySelectorAll('[data-play]').forEach((button) => button.addEventListener('click', () => {
+  const feature = button.dataset.play === 'featured' ? features[featureIndex] : features.find((item) => item.id === button.dataset.play);
+  playExcerpt(feature, button);
+}));
+['play', 'pause', 'ended', 'error'].forEach((event) => $('#audio').addEventListener(event, () => {
+  if (event === 'error') {
+    audioPending = false;
+    $('#audio-status').textContent = t('player.error');
+  }
+  updateAudioText();
+  scheduleRotation();
 }));
 $('#close-player').addEventListener('click', () => {
+  audioRequest += 1;
+  audioPending = false;
   $('#audio').pause();
   $('#audio-player').hidden = true;
-  $('.hero-listen').focus({ preventScroll: true });
+  (lastAudioTrigger && !lastAudioTrigger.hidden ? lastAudioTrigger : $('#feature-next')).focus({ preventScroll: true });
+  updateAudioText();
+  scheduleRotation();
 });
 
 document.querySelectorAll('[data-image]').forEach((button) => button.addEventListener('click', () => {
@@ -193,7 +341,7 @@ $('#book-prev').addEventListener('click', () => { if (bookSpread > 0) { bookSpre
 $('#book-next').addEventListener('click', () => { if (bookSpread < bookSpreads.length - 1) { bookSpread += 1; updateBook(); } });
 document.querySelectorAll('[data-close]').forEach((button) => button.addEventListener('click', () => button.closest('dialog').close()));
 document.querySelectorAll('dialog').forEach((dialog) => {
-  dialog.addEventListener('close', () => { document.body.classList.remove('modal-open'); lastDialogTrigger?.focus({ preventScroll: true }); });
+  dialog.addEventListener('close', () => { document.body.classList.remove('modal-open'); lastDialogTrigger?.focus({ preventScroll: true }); scheduleRotation(); });
   dialog.addEventListener('click', (event) => {
     const rect = dialog.getBoundingClientRect();
     if (event.target === dialog && (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom)) dialog.close();
