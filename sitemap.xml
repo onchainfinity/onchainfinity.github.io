@@ -79,6 +79,83 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/" />
   </url>
   <url>
+    <loc>https://onchainfinity.art/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/about/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/fr/about/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/pt/about/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/es/about/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/ko/about/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/zh/about/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/ja/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/about/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/fr/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/about/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/fr/about/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/pt/about/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/es/about/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/ko/about/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/zh/about/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/ja/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/about/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/pt/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/about/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/fr/about/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/pt/about/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/es/about/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/ko/about/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/zh/about/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/ja/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/about/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/es/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/about/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/fr/about/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/pt/about/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/es/about/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/ko/about/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/zh/about/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/ja/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/about/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/ko/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/about/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/fr/about/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/pt/about/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/es/about/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/ko/about/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/zh/about/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/ja/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/about/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/zh/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/about/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/fr/about/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/pt/about/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/es/about/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/ko/about/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/zh/about/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/ja/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/about/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/ja/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/about/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/fr/about/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/pt/about/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/es/about/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/ko/about/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/zh/about/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/ja/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/about/" />
+  </url>
+  <url>
     <loc>https://onchainfinity.art/1984/</loc>
   </url>
   <url>

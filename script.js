@@ -1,6 +1,7 @@
 /* Buildless site: all displayed media are served from the same origin. */
 const translations = {
   en: {
+    'about.title': 'About', 'about.read': 'Read the full statement',
     'share.page': 'Share this page', 'share.work': 'Share this work', 'share.title': 'Share', 'share.link': 'Link', 'share.copy': 'Copy link', 'share.copied': 'Link copied.', 'share.copy.error': 'Automatic copying is unavailable.', 'share.native': 'More sharing options', 'share.error': 'Sharing could not start.',
     skip: 'Skip to the works', works: 'Works', artist: 'The artist', correspondences: 'Correspondences', language: 'Language', navigation: 'Main navigation', menu: 'Open menu', 'menu.close': 'Close menu', close: 'Close', previous: 'Previous work', next: 'Next work',
     'hero.eyebrow': 'Art / Music / Cultural memory', 'hero.line': 'Explore our traces in AI. Reveal our humanity.', 'hero.description': 'Electronic music, images and imagined worlds, born from the memory of artworks.', 'hero.explore': 'Explore the works', 'hero.featured': 'In the light',
@@ -20,6 +21,7 @@ const translations = {
     'slideshow.pause': 'Pause slideshow', 'slideshow.resume': 'Resume slideshow', 'listen.pause': 'Pause excerpt', 'excerpt.duration': '45-second excerpt'
   },
   fr: {
+    'about.title': 'À propos', 'about.read': 'Lire le texte complet',
     'share.page': 'Partager cette page', 'share.work': 'Partager cette œuvre', 'share.title': 'Partager', 'share.link': 'Lien', 'share.copy': 'Copier le lien', 'share.copied': 'Lien copié.', 'share.copy.error': 'La copie automatique est indisponible.', 'share.native': 'Autres options de partage', 'share.error': 'Le partage n’a pas pu démarrer.',
     skip: 'Aller aux œuvres', works: 'Œuvres', artist: 'L’artiste', correspondences: 'Correspondances', language: 'Langue', navigation: 'Navigation principale', menu: 'Ouvrir le menu', 'menu.close': 'Fermer le menu', close: 'Fermer', previous: 'Œuvre précédente', next: 'Œuvre suivante',
     'hero.eyebrow': 'Art / Musique / Mémoire culturelle', 'hero.line': 'Explorer nos traces dans l’IA. Révéler l’humain.', 'hero.description': 'Des musiques électroniques, des images et des mondes imaginaires, nés de la mémoire des œuvres.', 'hero.explore': 'Explorer les œuvres', 'hero.featured': 'En lumière',
@@ -39,6 +41,7 @@ const translations = {
     'slideshow.pause': 'Suspendre le défilement', 'slideshow.resume': 'Reprendre le défilement', 'listen.pause': 'Mettre l’extrait en pause', 'excerpt.duration': 'extrait de 45 secondes'
   },
   pt: {
+    'about.title': 'Sobre', 'about.read': 'Ler o texto completo',
     'share.page': 'Partilhar esta página', 'share.work': 'Partilhar esta obra', 'share.title': 'Partilhar', 'share.link': 'Ligação', 'share.copy': 'Copiar ligação', 'share.copied': 'Ligação copiada.', 'share.copy.error': 'A cópia automática não está disponível.', 'share.native': 'Mais opções de partilha', 'share.error': 'Não foi possível iniciar a partilha.',
     skip: 'Ir para as obras', works: 'Obras', artist: 'O artista', correspondences: 'Correspondências', language: 'Idioma', navigation: 'Navegação principal', menu: 'Abrir menu', 'menu.close': 'Fechar menu', close: 'Fechar', previous: 'Obra anterior', next: 'Obra seguinte',
     'hero.eyebrow': 'Arte / Música / Memória cultural', 'hero.line': 'Explorar os nossos vestígios na IA. Revelar o humano.', 'hero.description': 'Músicas eletrónicas, imagens e mundos imaginários, nascidos da memória das obras.', 'hero.explore': 'Explorar as obras', 'hero.featured': 'Em destaque',
@@ -58,6 +61,7 @@ const translations = {
     'slideshow.pause': 'Pausar a apresentação', 'slideshow.resume': 'Retomar a apresentação', 'listen.pause': 'Pausar o excerto', 'excerpt.duration': 'excerto de 45 segundos'
   },
   es: {
+    'about.title': 'Acerca de', 'about.read': 'Leer el texto completo',
     'share.page': 'Compartir esta página', 'share.work': 'Compartir esta obra', 'share.title': 'Compartir', 'share.link': 'Enlace', 'share.copy': 'Copiar enlace', 'share.copied': 'Enlace copiado.', 'share.copy.error': 'La copia automática no está disponible.', 'share.native': 'Más opciones para compartir', 'share.error': 'No se ha podido compartir el enlace.',
     skip: 'Ir a las obras', works: 'Obras', artist: 'El artista', correspondences: 'Correspondencias', language: 'Idioma', navigation: 'Navegación principal', menu: 'Abrir menú', 'menu.close': 'Cerrar menú', close: 'Cerrar', previous: 'Obra anterior', next: 'Obra siguiente',
     'hero.eyebrow': 'Arte / Música / Memoria cultural', 'hero.line': 'Explorar nuestras huellas en la IA. Revelar lo humano.', 'hero.description': 'Músicas electrónicas, imágenes y mundos imaginarios, nacidos de la memoria de las obras.', 'hero.explore': 'Explorar las obras', 'hero.featured': 'En primer plano',
@@ -77,6 +81,7 @@ const translations = {
     'slideshow.pause': 'Pausar la presentación', 'slideshow.resume': 'Reanudar la presentación', 'listen.pause': 'Pausar el fragmento', 'excerpt.duration': 'fragmento de 45 segundos'
   },
   ko: {
+    'about.title': '소개', 'about.read': '전체 글 읽기',
     'share.page': '이 페이지 공유', 'share.work': '이 작품 공유', 'share.title': '공유', 'share.link': '링크', 'share.copy': '링크 복사', 'share.copied': '링크를 복사했습니다.', 'share.copy.error': '자동 복사를 사용할 수 없습니다.', 'share.native': '다른 방법으로 공유', 'share.error': '공유를 시작하지 못했습니다.',
     skip: '작품으로 바로 가기', works: '작품', artist: '아티스트', correspondences: '상응', language: '언어', navigation: '주 메뉴', menu: '메뉴 열기', 'menu.close': '메뉴 닫기', close: '닫기', previous: '이전 작품', next: '다음 작품',
     'hero.eyebrow': '예술 / 음악 / 문화의 기억', 'hero.line': 'AI 속 우리의 흔적을 탐구하다. 인간다움을 드러내다.', 'hero.description': '작품의 기억에서 태어나는 전자음악, 이미지, 그리고 상상의 세계.', 'hero.explore': '작품 둘러보기', 'hero.featured': '주목할 작품',
@@ -96,6 +101,7 @@ const translations = {
     'slideshow.pause': '슬라이드 쇼 일시 정지', 'slideshow.resume': '슬라이드 쇼 재개', 'listen.pause': '미리 듣기 일시 정지', 'excerpt.duration': '45초 미리 듣기'
   },
   zh: {
+    'about.title': '关于', 'about.read': '阅读全文',
     'share.page': '分享此页面', 'share.work': '分享此作品', 'share.title': '分享', 'share.link': '链接', 'share.copy': '复制链接', 'share.copied': '链接已复制。', 'share.copy.error': '无法自动复制。', 'share.native': '更多分享方式', 'share.error': '无法启动分享。',
     skip: '跳至作品', works: '作品', artist: '艺术家', correspondences: '交感', language: '语言', navigation: '主导航', menu: '打开菜单', 'menu.close': '关闭菜单', close: '关闭', previous: '上一件作品', next: '下一件作品',
     'hero.eyebrow': '艺术 / 音乐 / 文化记忆', 'hero.line': '探寻我们在人工智能中的痕迹。照见人性。', 'hero.description': '电子音乐、影像与想象的世界，诞生于作品的记忆。', 'hero.explore': '探索作品', 'hero.featured': '此刻呈现',
@@ -115,6 +121,7 @@ const translations = {
     'slideshow.pause': '暂停轮播', 'slideshow.resume': '继续轮播', 'listen.pause': '暂停试听', 'excerpt.duration': '45 秒片段'
   },
   ja: {
+    'about.title': 'この創作について', 'about.read': '全文を読む',
     'share.page': 'このページを共有', 'share.work': 'この作品を共有', 'share.title': '共有', 'share.link': 'リンク', 'share.copy': 'リンクをコピー', 'share.copied': 'リンクをコピーしました。', 'share.copy.error': '自動コピーを利用できません。', 'share.native': 'その他の共有方法', 'share.error': '共有を開始できませんでした。',
     skip: '作品へ移動', works: '作品', artist: 'アーティスト', correspondences: '照応', language: '言語', navigation: 'メインナビゲーション', menu: 'メニューを開く', 'menu.close': 'メニューを閉じる', close: '閉じる', previous: '前の作品', next: '次の作品',
     'hero.eyebrow': 'アート / 音楽 / 文化の記憶', 'hero.line': 'AIに残る私たちの痕跡をたどる。人間らしさを映し出す。', 'hero.description': '作品の記憶から生まれる電子音楽、イメージ、そして想像の世界。', 'hero.explore': '作品をめぐる', 'hero.featured': '光をあてる作品',
@@ -186,7 +193,7 @@ function createPageMetadata(code) {
   return {
     url, title: copy.title, description: `Onchainfinity. ${copy['hero.description']}`,
     graph: { '@context': 'https://schema.org', '@graph': [
-      { '@type': 'Person', ...artist, name: 'Onchainfinity', url: `${base}#artist`, description: copy['artist.lead'] },
+      { '@type': 'Person', ...artist, name: 'Onchainfinity', url: `${base}about/`, description: copy['artist.lead'] },
       { '@type': 'WebSite', ...website, name: 'Onchainfinity', url: base, publisher: artist, inLanguage: Object.keys(translations) },
       { '@type': 'CollectionPage', '@id': `${url}#webpage`, url, name: copy.title, description: copy['hero.description'],
         inLanguage: language, isPartOf: website, about: artist, mainEntity: { '@id': `${url}#selected-works` } },
@@ -462,6 +469,9 @@ function setLanguage(code, historyMode = 'replace') {
     link.href = localLanguageUrl(link.dataset.language).href;
     if (link.dataset.language === language) link.setAttribute('aria-current', 'page');
     else link.removeAttribute('aria-current');
+  });
+  document.querySelectorAll('[data-about-link]').forEach((link) => {
+    link.href = new URL(`${languagePath(language)}about/`, siteRoot).href;
   });
   const url = localLanguageUrl(language);
   if (historyMode !== 'none' && url.href !== location.href) {

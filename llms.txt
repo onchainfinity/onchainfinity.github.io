@@ -7,6 +7,8 @@ Original French slogan: "Explorer nos traces dans l’IA. Révéler l’humain."
 
 Paintings, poems and scientific texts provide the raw material. The artistic process seeks what endures as a work changes form: a colour, a tension, a rhythm or an emotion. These reinterpretations do not replace their sources; they invite another way of hearing or seeing them. AI is part of a process guided by the artist, not a uniform explanation for every image or sound.
 
+In the first-person About statement, Onchainfinity describes the pleasure of experiencing artworks anew and the humanity carried by AI through cultural traces. Wonder coexists with concerns about incomprehensible future intelligences, autonomous weapons and the concentration of wealth. These are the artist's reflections, not predictions or claims that AI is human or infallible.
+
 Onchainfinity is the artist's pseudonym. The literary voice may evoke Baudelaire, but it is not Baudelaire speaking. Project names and track titles are proper names. Velvet Index is an imagined band under Onchainfinity's artistic direction, not a separate real-world band.
 
 This guide covers the current portfolio. The linked project pages provide their own listening options and current release information. The homepage is available in seven languages; this does not imply that every project, recording or book has seven editions. Prompt BaudelAIre's original edition is in French.
@@ -15,6 +17,8 @@ This guide covers the current portfolio. The linked project pages provide their 
 
 - [Onchainfinity](https://onchainfinity.art/): Official portfolio and introduction to the artist's universe.
 - [Artistic approach](https://onchainfinity.art/#artist): Memory as creative material; passages from image to sound and from text to imagined world.
+- [About](https://onchainfinity.art/about/): Full artist statement, available in all seven site languages.
+- [À propos](https://onchainfinity.art/fr/about/): Original French statement; the editorial source for its translations.
 - [Correspondences](https://onchainfinity.art/#correspondences): Studio notes on the essence of a work and the dialogue between the machine and the artist.
 
 ## Selected works
@@ -38,4 +42,4 @@ This guide covers the current portfolio. The linked project pages provide their 
 ## Optional
 
 - [Prompt BaudelAIre on Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Purchase page linked from the book preview.
-- [Sitemap](https://onchainfinity.art/sitemap.xml): The seven homepage language URLs and three project sites hosted on onchainfinity.art. Legacy pages are not part of this current sitemap.
+- [Sitemap](https://onchainfinity.art/sitemap.xml): Seven homepage URLs, seven About URLs and three project sites hosted on onchainfinity.art. Legacy pages are not part of this current sitemap.
