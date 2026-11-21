@@ -1,0 +1,41 @@
+# Onchainfinity
+
+> Onchainfinity is a digital artist working with the memory of artworks. Electronic music, images, illustrated books and imagined worlds emerge from a dialogue between cultural traces, AI analysis, code and human artistic choices.
+
+English slogan: "Explore our traces in AI. Reveal our humanity."
+Original French slogan: "Explorer nos traces dans l’IA. Révéler l’humain."
+
+Paintings, poems and scientific texts provide the raw material. The artistic process seeks what endures as a work changes form: a colour, a tension, a rhythm or an emotion. These reinterpretations do not replace their sources; they invite another way of hearing or seeing them. AI is part of a process guided by the artist, not a uniform explanation for every image or sound.
+
+Onchainfinity is the artist's pseudonym. The literary voice may evoke Baudelaire, but it is not Baudelaire speaking. Project names and track titles are proper names. Velvet Index is an imagined band under Onchainfinity's artistic direction, not a separate real-world band.
+
+This guide covers the current portfolio. The linked project pages provide their own listening options and current release information. The homepage is available in seven languages; this does not imply that every project, recording or book has seven editions. Prompt BaudelAIre's original edition is in French.
+
+## Artist and approach
+
+- [Onchainfinity](https://onchainfinity.art/): Official portfolio and introduction to the artist's universe.
+- [Artistic approach](https://onchainfinity.art/#artist): Memory as creative material; passages from image to sound and from text to imagined world.
+- [Correspondences](https://onchainfinity.art/#correspondences): Studio notes on the essence of a work and the dialogue between the machine and the artist.
+
+## Selected works
+
+- [1984 / Velvet Index](https://onchainfinity.art/1984/): A musical project inspired by George Orwell's novel, exploring desire, memory and tenderness as places of resistance. The homepage presents the album as forthcoming, between modern new wave and electronic post-punk, with Golden Country as its first glimpse. Velvet Index is an imagined band created with AI under Onchainfinity's artistic direction.
+- [Afterimage](https://onchainfinity.art/afterimage/): Paintings become electronic music, stories and moving images through their cultural and emotional resonances. Starry Signal responds to Vincent van Gogh's The Starry Night (1889); the source painting is credited to Van Gogh.
+- [Robolution](https://onchainfinity.art/robolution/): Foundational texts of computer science become compositions blending electronic textures and orchestral sweep. Robolution 000 explores scientific memory and what might remain of humanity in the memory of machines. Entropy Overture is one of the album's tracks.
+- [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): An artbook universe combining images, narrative and music, following a cat through painted worlds. Galerie de Babel is the dedicated project site on a separate domain.
+- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): An illustrated poetry book, first published in French in 2023, bringing Baudelaire's verses into dialogue with AI-assisted images. The portfolio offers selected pages and a purchase link, not a downloadable complete book.
+
+## Homepage languages
+
+- [English](https://onchainfinity.art/): Default homepage language.
+- [French](https://onchainfinity.art/?lang=fr): French is the editorial reference for the site's translations.
+- [Portuguese](https://onchainfinity.art/?lang=pt): European Portuguese.
+- [Spanish](https://onchainfinity.art/?lang=es): Spanish homepage.
+- [Chinese](https://onchainfinity.art/?lang=zh): Simplified Chinese.
+- [Japanese](https://onchainfinity.art/?lang=ja): Japanese homepage.
+- [Korean](https://onchainfinity.art/?lang=ko): Korean homepage.
+
+## Optional
+
+- [Prompt BaudelAIre on Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Purchase page linked from the book preview.
+- [Sitemap](https://onchainfinity.art/sitemap.xml): The seven homepage language URLs and three project sites hosted on onchainfinity.art. Legacy pages are not part of this current sitemap.
