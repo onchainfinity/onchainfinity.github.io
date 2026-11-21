@@ -365,6 +365,14 @@ function updateBook() {
 
 function setLanguage(code) {
   language = Object.hasOwn(translations, code) ? code : 'en';
+  // A single language-specific canonical avoids collapsing translations into English.
+  let canonical = $('link[rel="canonical"]');
+  if (!canonical) {
+    canonical = document.createElement('link');
+    canonical.rel = 'canonical';
+    document.head.append(canonical);
+  }
+  canonical.href = `https://onchainfinity.art/${language === 'en' ? '' : `?lang=${language}`}`;
   document.documentElement.lang = language;
   document.title = t('title');
   $('meta[name="description"]').content = `Onchainfinity. ${t('hero.description')}`;

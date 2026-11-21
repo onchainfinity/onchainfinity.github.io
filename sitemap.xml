@@ -1,123 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://onchainfinity.art/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url>
-<loc>https://onchainfinity.art/</loc>
-</url>
-<url>
-<loc>https://onchainfinity.art/a-propos.html</loc>
-<lastmod>2025-09-14T10:23:38+02:00</lastmod>
-<image:image>
-<image:loc>https://onchainfinity.art/media/posts/2/macaron6739_futuristic_man_figure_wearing_sleek_cybernetic_suit_4f099482-26b0-46af-ab07-a24e5df0e227.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://onchainfinity.art/fin-partie-1-le-premier-lecteur.html</loc>
-<lastmod>2025-11-17T16:16:10+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/fin-partie-2-quand-le-lecteur-parle-le-texte-sincline.html</loc>
-<lastmod>2025-11-17T16:16:40+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/fin-partie-4-le-destin-de-yalos.html</loc>
-<lastmod>2025-11-17T16:30:16+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/fin-partie-4-le-jugement-du-livre-noir.html</loc>
-<lastmod>2025-11-17T16:22:06+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/fin-partie-5-les-lecteurs-multiples-et-lultime-stabilisation.html</loc>
-<lastmod>2025-11-17T16:32:14+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/fin.html</loc>
-<lastmod>2025-11-17T16:05:21+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/la-bibliotheque-de-babel-et-lia-generative.html</loc>
-<lastmod>2025-11-17T14:02:37+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/les-livres.html</loc>
-<lastmod>2025-09-14T13:28:59+02:00</lastmod>
-<image:image>
-<image:loc>https://onchainfinity.art/media/posts/4/macaron6739_realistic_Dark_blue_sea_waves_1be43e5d-dca4-4814-85ff-d47aca02c458-2.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://onchainfinity.art/media/posts/4/1757848710.jpeg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://onchainfinity.art/musiques.html</loc>
-<lastmod>2025-09-14T13:28:36+02:00</lastmod>
-<image:image>
-<image:loc>https://onchainfinity.art/media/posts/3/Faune-des-ondes-web.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://onchainfinity.art/preface-le-lecteur-infini-variations-de-babel.html</loc>
-<lastmod>2025-11-17T19:56:04+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/preface-sur-le-livre.html</loc>
-<lastmod>2025-11-17T17:58:12+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-10-la-bibliotheque-qui-bouge.html</loc>
-<lastmod>2025-11-17T16:35:31+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-11-le-noyau-palimpseste.html</loc>
-<lastmod>2025-11-17T16:35:45+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-12-len-dessous-du-texte.html</loc>
-<lastmod>2025-11-17T16:35:53+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-13-yalos-ecrit-son-premier-pas.html</loc>
-<lastmod>2025-11-17T16:36:01+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-2-le-livre-impossible.html</loc>
-<lastmod>2025-11-17T13:46:07+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-3-le-livre-qui-apprend.html</loc>
-<lastmod>2025-11-17T13:54:06+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-4-la-deconnexion.html</loc>
-<lastmod>2025-11-17T13:54:39+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-5-le-livre-qui-tombe.html</loc>
-<lastmod>2025-11-17T14:03:39+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-6-la-silhouette-au-visage-changeant.html</loc>
-<lastmod>2025-11-17T14:10:40+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-7-le-choix-qui-ne-lui-appartenait-pas.html</loc>
-<lastmod>2025-11-17T14:17:30+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-7-suite-le-couloir-des-deserteurs.html</loc>
-<lastmod>2025-11-17T16:34:49+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-8-lhexagone-qui-tremble.html</loc>
-<lastmod>2025-11-17T16:35:09+01:00</lastmod>
-</url>
-<url>
-<loc>https://onchainfinity.art/scene-9-la-page-qui-regarde.html</loc>
-<lastmod>2025-11-17T16:35:21+01:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://onchainfinity.art/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/?lang=fr</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/?lang=pt</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/?lang=es</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/?lang=ko</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/?lang=zh</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/?lang=ja</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://onchainfinity.art/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://onchainfinity.art/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://onchainfinity.art/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://onchainfinity.art/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://onchainfinity.art/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://onchainfinity.art/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://onchainfinity.art/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://onchainfinity.art/" />
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/1984/</loc>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/afterimage/</loc>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/robolution/</loc>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/a-propos.html</loc>
+    <lastmod>2025-09-14T10:23:38+02:00</lastmod>
+    <image:image>
+      <image:loc>https://onchainfinity.art/media/posts/2/macaron6739_futuristic_man_figure_wearing_sleek_cybernetic_suit_4f099482-26b0-46af-ab07-a24e5df0e227.png</image:loc>
+      <image:title />
+    </image:image>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/fin-partie-1-le-premier-lecteur.html</loc>
+    <lastmod>2025-11-17T16:16:10+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/fin-partie-2-quand-le-lecteur-parle-le-texte-sincline.html</loc>
+    <lastmod>2025-11-17T16:16:40+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/fin-partie-4-le-destin-de-yalos.html</loc>
+    <lastmod>2025-11-17T16:30:16+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/fin-partie-4-le-jugement-du-livre-noir.html</loc>
+    <lastmod>2025-11-17T16:22:06+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/fin-partie-5-les-lecteurs-multiples-et-lultime-stabilisation.html</loc>
+    <lastmod>2025-11-17T16:32:14+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/fin.html</loc>
+    <lastmod>2025-11-17T16:05:21+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/la-bibliotheque-de-babel-et-lia-generative.html</loc>
+    <lastmod>2025-11-17T14:02:37+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/les-livres.html</loc>
+    <lastmod>2025-09-14T13:28:59+02:00</lastmod>
+    <image:image>
+      <image:loc>https://onchainfinity.art/media/posts/4/macaron6739_realistic_Dark_blue_sea_waves_1be43e5d-dca4-4814-85ff-d47aca02c458-2.png</image:loc>
+      <image:title />
+    </image:image>
+    <image:image>
+      <image:loc>https://onchainfinity.art/media/posts/4/1757848710.jpeg</image:loc>
+      <image:title />
+    </image:image>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/musiques.html</loc>
+    <lastmod>2025-09-14T13:28:36+02:00</lastmod>
+    <image:image>
+      <image:loc>https://onchainfinity.art/media/posts/3/Faune-des-ondes-web.jpg</image:loc>
+      <image:title />
+    </image:image>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/preface-le-lecteur-infini-variations-de-babel.html</loc>
+    <lastmod>2025-11-17T19:56:04+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/preface-sur-le-livre.html</loc>
+    <lastmod>2025-11-17T17:58:12+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-10-la-bibliotheque-qui-bouge.html</loc>
+    <lastmod>2025-11-17T16:35:31+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-11-le-noyau-palimpseste.html</loc>
+    <lastmod>2025-11-17T16:35:45+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-12-len-dessous-du-texte.html</loc>
+    <lastmod>2025-11-17T16:35:53+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-13-yalos-ecrit-son-premier-pas.html</loc>
+    <lastmod>2025-11-17T16:36:01+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-2-le-livre-impossible.html</loc>
+    <lastmod>2025-11-17T13:46:07+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-3-le-livre-qui-apprend.html</loc>
+    <lastmod>2025-11-17T13:54:06+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-4-la-deconnexion.html</loc>
+    <lastmod>2025-11-17T13:54:39+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-5-le-livre-qui-tombe.html</loc>
+    <lastmod>2025-11-17T14:03:39+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-6-la-silhouette-au-visage-changeant.html</loc>
+    <lastmod>2025-11-17T14:10:40+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-7-le-choix-qui-ne-lui-appartenait-pas.html</loc>
+    <lastmod>2025-11-17T14:17:30+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-7-suite-le-couloir-des-deserteurs.html</loc>
+    <lastmod>2025-11-17T16:34:49+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-8-lhexagone-qui-tremble.html</loc>
+    <lastmod>2025-11-17T16:35:09+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://onchainfinity.art/scene-9-la-page-qui-regarde.html</loc>
+    <lastmod>2025-11-17T16:35:21+01:00</lastmod>
+  </url>
 </urlset>
