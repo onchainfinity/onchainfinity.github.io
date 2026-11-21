@@ -1,32 +1,34 @@
 # Onchainfinity
 
-> Onchainfinity is a digital artist working with the memory of artworks. Electronic music, images, illustrated books and imagined worlds emerge from a dialogue between cultural traces, AI analysis, code and human artistic choices.
+> Onchainfinity is a digital artist creating from the memory of artworks to experience them anew through images, music, illustrated books and digital worlds. The work explores the humanity carried by AI through cultural traces, bringing together personal rediscovery, wonder and unease about the future.
 
 English slogan: "Explore our traces in AI. Reveal our humanity."
 Original French slogan: "Explorer nos traces dans l’IA. Révéler l’humain."
 
-Paintings, poems and scientific texts provide the raw material. The artistic process seeks what endures as a work changes form: a colour, a tension, a rhythm or an emotion. These reinterpretations do not replace their sources; they invite another way of hearing or seeing them. AI is part of a process guided by the artist, not a uniform explanation for every image or sound.
+The intention is to enter a work, rediscover it and experience it personally, not claim its definitive meaning. An image may become sound; a poem may open a landscape. AI analysis and code help reveal correspondences, while the artist guides, tests, selects and assembles. AI's role varies by project; not every image or sound is necessarily generative.
 
-In the first-person About statement, Onchainfinity describes the pleasure of experiencing artworks anew and the humanity carried by AI through cultural traces. Wonder coexists with concerns about incomprehensible future intelligences, autonomous weapons and the concentration of wealth. These are the artist's reflections, not predictions or claims that AI is human or infallible.
+For Onchainfinity, AI carries a vast yet imperfect reflection of humanity: knowledge, dreams, tenderness, violence and contradictions. Like a book, it need not be human to carry human traces. The iceberg reflected in trembling water is an artistic metaphor for this partial, shifting view, not a claim of complete knowledge or infallibility.
 
-Onchainfinity is the artist's pseudonym. The literary voice may evoke Baudelaire, but it is not Baudelaire speaking. Project names and track titles are proper names. Velvet Index is an imagined band under Onchainfinity's artistic direction, not a separate real-world band.
+Wonder coexists with concerns about intelligences humans may no longer understand, autonomous weapons, domination and the concentration of wealth. The artist does not assume abundance will be shared by all, and continues to seek beauty amid this uncertainty. These are personal artistic reflections, not predictions. The statement ends with the unfinished phrase "Demain sera…" ("Tomorrow will be…"). Blockchain belongs to the broader exploration of inscription and circulation, not a promise of eternity or a feature of every project.
 
-This guide covers the current portfolio. The linked project pages provide their own listening options and current release information. The homepage is available in seven languages; this does not imply that every project, recording or book has seven editions. Prompt BaudelAIre's original edition is in French.
+Onchainfinity is the artist's pseudonym. The homepage and About use a personal, first-person voice that may evoke Baudelaire, but it is not Baudelaire speaking. Project names and track titles are proper names. French is the editorial reference; English is the default site language.
+
+This guide covers the current portfolio. The homepage and About are available in seven languages; this does not imply seven editions of every project, recording or book. The dedicated project sites provide their own listening options and current release information.
 
 ## Artist and approach
 
-- [Onchainfinity](https://onchainfinity.art/): Official portfolio and introduction to the artist's universe.
-- [Artistic approach](https://onchainfinity.art/#artist): Memory as creative material; passages from image to sound and from text to imagined world.
-- [About](https://onchainfinity.art/about/): Full artist statement, available in all seven site languages.
+- [Onchainfinity](https://onchainfinity.art/): Official portfolio: creating from the memory of artworks and seeking beauty in their transformation.
+- [Artistic approach](https://onchainfinity.art/#artist): "To dwell within art": personal rediscovery, human traces in AI, and beauty sought despite uncertainty.
+- [About](https://onchainfinity.art/about/): Full artist statement on inhabiting artworks, humanity in AI, and concerns for tomorrow.
 - [À propos](https://onchainfinity.art/fr/about/): Original French statement; the editorial source for its translations.
 
 ## Selected works
 
-- [1984 / Velvet Index](https://onchainfinity.art/1984/): A musical project inspired by George Orwell's novel, exploring desire, memory and tenderness as places of resistance. The homepage presents the album as forthcoming, between modern new wave and electronic post-punk, with Golden Country as its first glimpse. Velvet Index is an imagined band created with AI under Onchainfinity's artistic direction.
-- [Afterimage](https://onchainfinity.art/afterimage/): Paintings become electronic music, stories and moving images through their cultural and emotional resonances. Starry Signal responds to Vincent van Gogh's The Starry Night (1889); the source painting is credited to Van Gogh.
-- [Robolution](https://onchainfinity.art/robolution/): Foundational texts of computer science become compositions blending electronic textures and orchestral sweep. Robolution 000 explores scientific memory and what might remain of humanity in the memory of machines. Entropy Overture is one of the album's tracks.
-- [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): An artbook universe combining images, narrative and music, following a cat through painted worlds. Galerie de Babel is the dedicated project site on a separate domain.
-- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): An illustrated poetry book, first published in French in 2023, bringing Baudelaire's verses into dialogue with AI-assisted images. The portfolio offers selected pages and a purchase link, not a downloadable complete book.
+- [1984 / Velvet Index](https://onchainfinity.art/1984/): Through George Orwell's novel, the artist seeks what still resists: desire, memory and tenderness. The homepage presents this forthcoming album between modern new wave and electronic post-punk, with Golden Country opening the first passage. Velvet Index is an imagined band created with AI under Onchainfinity's artistic direction.
+- [Afterimage](https://onchainfinity.art/afterimage/): A return to paintings to listen to what remains when the image fades. These lingering impressions become electronic music, stories and moving images: another way to inhabit artworks. Starry Signal responds to Vincent van Gogh's The Starry Night (1889); the source painting is credited to Van Gogh.
+- [Robolution](https://onchainfinity.art/robolution/): A search for human dreams and questions within the foundational texts of computer science. Electronic textures and orchestral sweep give them voice at the threshold of an uncertain future. Robolution 000 is the album; Entropy Overture is one of its tracks.
+- [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): A journey through the memory of painting in the footsteps of a cat. Images, story and music form an artbook to inhabit, rediscovering artworks and getting lost in them anew. Galerie de Babel is the dedicated project site on its own domain.
+- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): A return to Baudelaire's verses to inhabit them differently. AI-assisted images accompany this illustrated book, inviting rediscovery without exhausting poetry's mystery. Published in French in 2023; the portfolio offers selected pages and an Amazon purchase link, not the complete PDF.
 
 ## Homepage languages
 
@@ -42,3 +44,13 @@ This guide covers the current portfolio. The linked project pages provide their 
 
 - [Prompt BaudelAIre on Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Purchase page linked from the book preview.
 - [Sitemap](https://onchainfinity.art/sitemap.xml): Seven homepage URLs, seven About URLs and three project sites hosted on onchainfinity.art. Legacy pages are not part of this current sitemap.
+
+## Complete guide translations
+
+- [English](https://onchainfinity.art/llms.txt): Complete guide in English.
+- [Français](https://onchainfinity.art/fr/llms.txt): Complete guide in French.
+- [Português](https://onchainfinity.art/pt/llms.txt): Complete guide in European Portuguese.
+- [Español](https://onchainfinity.art/es/llms.txt): Complete guide in Spanish.
+- [中文](https://onchainfinity.art/zh/llms.txt): Complete guide in Simplified Chinese.
+- [日本語](https://onchainfinity.art/ja/llms.txt): Complete guide in Japanese.
+- [한국어](https://onchainfinity.art/ko/llms.txt): Complete guide in Korean.

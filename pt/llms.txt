@@ -1,0 +1,55 @@
+# Onchainfinity
+
+> Onchainfinity é um artista digital que cria a partir da memória das obras para as reviver em imagens, músicas, livros ilustrados e mundos digitais. O seu trabalho explora a humanidade que a IA transporta através dos vestígios culturais, entre redescoberta íntima, deslumbramento e inquietação perante o futuro.
+
+Lema: «Explorar os nossos vestígios na IA. Revelar o humano.»
+
+A intenção é entrar numa obra, redescobri-la e revivê-la pessoalmente, sem pretender fixar o seu sentido definitivo. Uma imagem pode tornar-se som; um poema pode abrir uma paisagem. A análise com IA e o código ajudam a revelar correspondências, enquanto o artista guia, põe à prova, seleciona e reúne. O papel da IA varia de projeto para projeto; nem todas as imagens ou todos os sons resultam necessariamente de geração por IA.
+
+Para Onchainfinity, a IA transporta um reflexo vasto, mas imperfeito, da humanidade: conhecimentos, sonhos, ternura, violência e contradições. Tal como um livro, não precisa de ser humana para conter vestígios humanos. O icebergue refletido numa água trémula é uma metáfora artística desta visão parcial e mutável, não uma afirmação de conhecimento total ou de infalibilidade.
+
+O deslumbramento convive com o receio de inteligências que os humanos poderão deixar de compreender, de armas autónomas, de dominação e de concentração da riqueza. O artista não dá por garantido que a abundância será partilhada por todos, e continua a procurar o belo nesta incerteza. São reflexões artísticas pessoais, não previsões. O texto termina com a frase em aberto «Amanhã será…». A blockchain faz parte de uma exploração mais ampla da inscrição e da circulação, não de uma promessa de eternidade nem de uma característica de todos os projetos.
+
+Onchainfinity é o pseudónimo do artista. A página inicial e a apresentação do artista adotam uma voz pessoal, na primeira pessoa, que pode evocar Baudelaire, mas não é Baudelaire quem fala. Os nomes dos projetos e os títulos das faixas são nomes próprios. O francês é a referência editorial; o inglês é o idioma predefinido do site.
+
+Este guia apresenta o portefólio atual. A página inicial e a apresentação do artista estão disponíveis em sete idiomas; isso não significa que cada projeto, gravação ou livro tenha sete edições. Os sites dedicados aos projetos disponibilizam as suas próprias opções de escuta e informações atualizadas sobre os lançamentos.
+
+## O artista e a sua abordagem
+
+- [Onchainfinity](https://onchainfinity.art/pt/): Portefólio oficial: criar a partir da memória das obras e procurar o belo nas suas metamorfoses.
+- [Abordagem artística](https://onchainfinity.art/pt/#artist): «Habitar as obras»: redescoberta íntima, vestígios humanos na IA e procura do belo apesar da incerteza.
+- [Sobre o artista](https://onchainfinity.art/pt/about/): Apresentação completa sobre habitar as obras, a humanidade presente na IA e as inquietações perante o amanhã.
+- [Texto original em francês](https://onchainfinity.art/fr/about/): A apresentação original do artista, fonte editorial das traduções.
+
+## Obras selecionadas
+
+- [1984 / Velvet Index](https://onchainfinity.art/1984/): Através do romance de George Orwell, o artista procura o que ainda resiste: o desejo, a memória, a ternura. A página inicial apresenta este álbum em preparação, entre a new wave contemporânea e o pós-punk eletrónico; Golden Country abre a primeira passagem. Velvet Index é uma banda imaginária criada com IA sob a direção artística de Onchainfinity.
+- [Afterimage](https://onchainfinity.art/afterimage/): Um regresso às pinturas para escutar o que permanece quando a imagem se desvanece. Estas impressões persistentes tornam-se música eletrónica, narrativas e imagens em movimento: outra forma de habitar as obras. Starry Signal responde a A Noite Estrelada (1889), de Vincent van Gogh; a pintura original é creditada a Van Gogh.
+- [Robolution](https://onchainfinity.art/robolution/): Uma procura dos nossos sonhos e das nossas perguntas nos textos fundadores da informática. Texturas eletrónicas e fôlego orquestral dão-lhes voz no limiar de um futuro incerto. Robolution 000 é o álbum; Entropy Overture é uma das suas faixas.
+- [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): Uma travessia da memória da pintura nos passos de um gato. Imagens, narrativa e música compõem um livro de arte para habitar, reencontrando as obras e perdendo-se nelas de outra maneira. Galerie de Babel é o site dedicado ao projeto, com domínio próprio.
+- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): Um regresso aos versos de Baudelaire para os habitar de outra maneira. Imagens criadas com o apoio da IA acompanham este livro ilustrado, convidando à redescoberta sem esgotar o mistério da poesia. Publicado em francês em 2023; o portefólio oferece páginas selecionadas e uma ligação para compra na Amazon, não o PDF integral.
+
+## Idiomas da página inicial
+
+- [Inglês](https://onchainfinity.art/): Idioma predefinido da página inicial.
+- [Francês](https://onchainfinity.art/fr/): Referência editorial para as traduções do site.
+- [Português](https://onchainfinity.art/pt/): Português europeu.
+- [Espanhol](https://onchainfinity.art/es/): Página inicial em espanhol.
+- [Chinês](https://onchainfinity.art/zh/): Chinês simplificado.
+- [Japonês](https://onchainfinity.art/ja/): Página inicial em japonês.
+- [Coreano](https://onchainfinity.art/ko/): Página inicial em coreano.
+
+## Recursos complementares
+
+- [Prompt BaudelAIre na Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Página de compra ligada à amostra do livro.
+- [Mapa do site](https://onchainfinity.art/sitemap.xml): Sete endereços da página inicial, sete páginas sobre o artista e três sites de projetos alojados em onchainfinity.art. As páginas antigas não fazem parte deste mapa atual.
+
+## Traduções integrais do guia
+
+- [English](https://onchainfinity.art/llms.txt): Guia integral em inglês.
+- [Français](https://onchainfinity.art/fr/llms.txt): Guia integral em francês.
+- [Português](https://onchainfinity.art/pt/llms.txt): Guia integral em português europeu.
+- [Español](https://onchainfinity.art/es/llms.txt): Guia integral em espanhol.
+- [中文](https://onchainfinity.art/zh/llms.txt): Guia integral em chinês simplificado.
+- [日本語](https://onchainfinity.art/ja/llms.txt): Guia integral em japonês.
+- [한국어](https://onchainfinity.art/ko/llms.txt): Guia integral em coreano.

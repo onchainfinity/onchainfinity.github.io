@@ -1,0 +1,55 @@
+# Onchainfinity
+
+> Onchainfinity는 작품의 기억에서 출발해 이미지, 음악, 삽화가 있는 책, 디지털 세계를 만들며 작품을 다시 살아내고자 하는 디지털 아티스트다. 문화의 흔적을 통해 AI에 담긴 인간다움을 탐구하며, 내밀한 재발견과 경이로움, 미래에 대한 불안을 함께 품는다.
+
+슬로건: “AI 속 우리의 흔적을 탐구하다. 인간다움을 드러내다.”
+
+작품 속으로 들어가 새롭게 발견하고, 자신의 감각으로 다시 살아내는 것이 창작의 뜻이다. 작품의 결정적인 의미를 규정하려는 것은 아니다. 이미지는 소리가 될 수 있고, 시는 풍경을 열 수 있다. AI 분석과 코드는 그 사이의 상응을 드러내는 데 도움을 주며, 아티스트는 이끌고, 시험하고, 고르고, 엮는다. AI의 역할은 프로젝트마다 다르며, 모든 이미지와 소리가 반드시 생성형 AI로 만들어지는 것은 아니다.
+
+Onchainfinity에게 AI는 인간의 광대하지만 불완전한 모습을 비춘다. 지식과 꿈, 다정함과 폭력, 그리고 모순들. 책과 마찬가지로, 인간이 아니어도 인간의 흔적을 담을 수 있다. 떨리는 수면에 비친 빙산은 이 부분적이고 변화하는 시선을 나타내는 예술적 은유이지, 완전한 지식이나 무오류성을 주장하는 말이 아니다.
+
+경이로움에는 인간이 더는 이해하지 못할지도 모르는 지성, 자율 무기, 지배와 부의 집중에 대한 불안이 함께한다. 아티스트는 풍요가 모두에게 나누어질 것이라고 단정하지 않으며, 이러한 불확실성 속에서도 아름다움을 찾는다. 이는 개인적인 예술적 사유이지 예측이 아니다. 작가의 글은 “내일은…”이라는 미완의 문장으로 끝난다. 블록체인은 새김과 유통에 관한 더 넓은 탐구의 일부이며, 영원을 약속하거나 모든 프로젝트에 적용되는 요소는 아니다.
+
+Onchainfinity는 아티스트의 활동명이다. 홈과 작가 소개는 개인적인 일인칭 목소리로 쓰여 있으며, 보들레르를 떠올리게 할 수 있지만 보들레르 자신이 말하는 것은 아니다. 프로젝트명과 곡명은 고유명사로 유지된다. 프랑스어는 편집과 번역의 기준이며, 영어는 사이트의 기본 언어다.
+
+이 안내서는 현재의 포트폴리오를 소개한다. 홈과 작가 소개는 일곱 언어로 제공되지만, 모든 프로젝트, 음원, 책에 일곱 언어판이 있다는 뜻은 아니다. 각 프로젝트의 전용 사이트에서 해당 작품의 청취 방법과 최신 발매 정보를 제공한다.
+
+## 아티스트와 창작의 방향
+
+- [Onchainfinity](https://onchainfinity.art/ko/): 공식 포트폴리오. 작품의 기억으로 창작하며 그 변모 속에서 아름다움을 찾는다.
+- [창작의 방향](https://onchainfinity.art/ko/#artist): “작품 속에 머물기”. 내밀한 재발견, AI 속 인간의 흔적, 불확실성 속에서도 이어지는 아름다움의 탐구.
+- [작가 소개](https://onchainfinity.art/ko/about/): 작품 속에 머무는 일, AI에 담긴 인간다움, 내일에 대한 불안을 다룬 작가의 글 전문.
+- [프랑스어 원문](https://onchainfinity.art/fr/about/): 작가 소개의 원문이며, 각 번역의 편집 기준이 되는 글.
+
+## 주요 작품
+
+- [1984 / Velvet Index](https://onchainfinity.art/1984/): 조지 오웰의 소설을 지나며, 여전히 저항하는 것들인 욕망과 기억, 다정함을 찾는다. 홈에서는 현대적인 뉴웨이브와 일렉트로닉 포스트펑크 사이에서 만들어지고 있는 앨범을 소개하며, Golden Country가 첫 통로를 연다. Velvet Index는 Onchainfinity의 예술적 지휘 아래 AI와 함께 구상한 가상의 밴드다.
+- [Afterimage](https://onchainfinity.art/afterimage/): 그림으로 돌아가 이미지가 사라진 뒤에도 남는 것에 귀를 기울인다. 이 잔향들은 전자음악, 이야기, 움직이는 이미지가 되어 작품 속에 머무는 또 하나의 방식이 된다. Starry Signal은 빈센트 반 고흐의 《별이 빛나는 밤》(1889)에 응답하는 작품이며, 원화의 작가는 반 고흐로 명시된다.
+- [Robolution](https://onchainfinity.art/robolution/): 컴퓨터 과학의 토대를 이룬 글에서 인간의 꿈과 질문을 찾는다. 전자음의 질감과 관현악의 호흡이 불확실한 미래의 문턱에서 그것들을 울리게 한다. Robolution 000은 앨범명이며, Entropy Overture는 수록곡 가운데 하나다.
+- [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): 고양이의 발걸음을 따라 회화의 기억을 가로지르는 여정. 이미지와 이야기, 음악이 그 안에 머물 수 있는 아트북을 이룬다. 작품과 다시 만나고, 다른 방식으로 그 안에서 길을 잃기 위해서다. Galerie de Babel은 독립 도메인을 사용하는 프로젝트 전용 사이트다.
+- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): 보들레르의 시구로 돌아가 다른 방식으로 그 안에 머무는 시도. AI의 도움으로 만든 이미지들이 이 삽화집에 함께하며, 시의 신비를 모두 풀어내지 않은 채 재발견으로 초대한다. 2023년에 프랑스어로 출간되었다. 포트폴리오에서는 일부 페이지와 Amazon 구매 링크를 제공하며, 전체 PDF는 공개하지 않는다.
+
+## 홈의 언어
+
+- [영어](https://onchainfinity.art/): 홈의 기본 언어.
+- [프랑스어](https://onchainfinity.art/fr/): 사이트 번역의 편집 기준.
+- [포르투갈어](https://onchainfinity.art/pt/): 유럽 포르투갈어.
+- [스페인어](https://onchainfinity.art/es/): 스페인어 홈.
+- [중국어](https://onchainfinity.art/zh/): 중국어 간체.
+- [일본어](https://onchainfinity.art/ja/): 일본어 홈.
+- [한국어](https://onchainfinity.art/ko/): 한국어 홈.
+
+## 추가 자료
+
+- [Amazon의 Prompt BaudelAIre](https://www.amazon.fr/dp/B0CHL1C7G9): 책 미리보기에서 연결되는 구매 페이지.
+- [사이트맵](https://onchainfinity.art/sitemap.xml): 홈 주소 일곱 개, 작가 소개 주소 일곱 개, onchainfinity.art에 호스팅된 프로젝트 사이트 세 개를 담고 있다. 이전 페이지들은 현재 사이트맵에 포함되지 않는다.
+
+## 안내서 전체 번역본
+
+- [English](https://onchainfinity.art/llms.txt): 영어 안내서 전문.
+- [Français](https://onchainfinity.art/fr/llms.txt): 프랑스어 안내서 전문.
+- [Português](https://onchainfinity.art/pt/llms.txt): 유럽 포르투갈어 안내서 전문.
+- [Español](https://onchainfinity.art/es/llms.txt): 스페인어 안내서 전문.
+- [中文](https://onchainfinity.art/zh/llms.txt): 중국어 간체 안내서 전문.
+- [日本語](https://onchainfinity.art/ja/llms.txt): 일본어 안내서 전문.
+- [한국어](https://onchainfinity.art/ko/llms.txt): 한국어 안내서 전문.
