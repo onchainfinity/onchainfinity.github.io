@@ -12,7 +12,7 @@ Onchainfinity에게 AI는 인간의 광대하지만 불완전한 모습을 비�
 
 Onchainfinity는 아티스트의 활동명이다. 홈과 작가 소개는 개인적인 일인칭 목소리로 쓰여 있으며, 보들레르를 떠올리게 할 수 있지만 보들레르 자신이 말하는 것은 아니다. 프로젝트명과 곡명은 고유명사로 유지된다. 프랑스어는 편집과 번역의 기준이며, 영어는 사이트의 기본 언어다.
 
-이 안내서는 현재의 포트폴리오를 소개한다. 홈과 작가 소개는 일곱 언어로 제공되지만, 모든 프로젝트, 음원, 책에 일곱 언어판이 있다는 뜻은 아니다. 각 프로젝트의 전용 사이트에서 해당 작품의 청취 방법과 최신 발매 정보를 제공한다.
+이 안내서는 현재의 포트폴리오를 소개한다. 홈과 작가 소개는 아홉 언어로 제공되지만, 모든 프로젝트, 음원, 책에 아홉 언어판이 있다는 뜻은 아니다. 각 프로젝트의 전용 사이트에서 해당 작품의 청취 방법과 최신 발매 정보를 제공한다.
 
 ## 아티스트와 창작의 방향
 
@@ -33,6 +33,8 @@ Onchainfinity는 아티스트의 활동명이다. 홈과 작가 소개는 개인
 
 - [영어](https://onchainfinity.art/): 홈의 기본 언어.
 - [프랑스어](https://onchainfinity.art/fr/): 사이트 번역의 편집 기준.
+- [독일어](https://onchainfinity.art/de/): 독일어 홈.
+- [이탈리아어](https://onchainfinity.art/it/): 이탈리아어 홈.
 - [포르투갈어](https://onchainfinity.art/pt/): 유럽 포르투갈어.
 - [스페인어](https://onchainfinity.art/es/): 스페인어 홈.
 - [중국어](https://onchainfinity.art/zh/): 중국어 간체.
@@ -42,12 +44,14 @@ Onchainfinity는 아티스트의 활동명이다. 홈과 작가 소개는 개인
 ## 추가 자료
 
 - [Amazon의 Prompt BaudelAIre](https://www.amazon.fr/dp/B0CHL1C7G9): 책 전체를 읽을 수 있는 온라인 뷰어에서 연결되는 구매 페이지.
-- [사이트맵](https://onchainfinity.art/sitemap.xml): 홈 주소 일곱 개, 작가 소개 주소 일곱 개, onchainfinity.art에 호스팅된 프로젝트 사이트 세 개를 담고 있다. 이전 페이지들은 현재 사이트맵에 포함되지 않는다.
+- [사이트맵](https://onchainfinity.art/sitemap.xml): 홈 주소 아홉 개, 작가 소개 주소 아홉 개, onchainfinity.art에 호스팅된 프로젝트 사이트 세 개를 담고 있다. 이전 페이지들은 현재 사이트맵에 포함되지 않는다.
 
 ## 안내서 전체 번역본
 
 - [English](https://onchainfinity.art/llms.txt): 영어 안내서 전문.
 - [Français](https://onchainfinity.art/fr/llms.txt): 프랑스어 안내서 전문.
+- [Deutsch](https://onchainfinity.art/de/llms.txt): 독일어 안내서 전문.
+- [Italiano](https://onchainfinity.art/it/llms.txt): 이탈리아어 안내서 전문.
 - [Português](https://onchainfinity.art/pt/llms.txt): 유럽 포르투갈어 안내서 전문.
 - [Español](https://onchainfinity.art/es/llms.txt): 스페인어 안내서 전문.
 - [中文](https://onchainfinity.art/zh/llms.txt): 중국어 간체 안내서 전문.

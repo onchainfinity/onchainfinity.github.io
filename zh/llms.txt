@@ -12,7 +12,7 @@
 
 Onchainfinity是艺术家的创作名。首页与艺术家自述采用个人化的第一人称，语气或许令人想起波德莱尔，但并不是波德莱尔在发声。项目名与曲目名作为专名保留。法语是编辑与翻译的参照语言，英语是网站的默认语言。
 
-本指南介绍当前的作品集。首页与艺术家自述提供七种语言，但这不意味着每个项目、音乐录音或书籍都有七种语言的版本。各项目的专属网站提供相应的试听方式与最新发行信息。
+本指南介绍当前的作品集。首页与艺术家自述提供九种语言，但这不意味着每个项目、音乐录音或书籍都有九种语言的版本。各项目的专属网站提供相应的试听方式与最新发行信息。
 
 ## 艺术家与创作理念
 
@@ -33,6 +33,8 @@ Onchainfinity是艺术家的创作名。首页与艺术家自述采用个人化�
 
 - [英语](https://onchainfinity.art/): 首页的默认语言。
 - [法语](https://onchainfinity.art/fr/): 网站翻译的编辑参照语言。
+- [德语](https://onchainfinity.art/de/): 德语首页。
+- [意大利语](https://onchainfinity.art/it/): 意大利语首页。
 - [葡萄牙语](https://onchainfinity.art/pt/): 欧洲葡萄牙语。
 - [西班牙语](https://onchainfinity.art/es/): 西班牙语首页。
 - [中文](https://onchainfinity.art/zh/): 简体中文。
@@ -42,12 +44,14 @@ Onchainfinity是艺术家的创作名。首页与艺术家自述采用个人化�
 ## 补充资源
 
 - [Amazon上的Prompt BaudelAIre](https://www.amazon.fr/dp/B0CHL1C7G9): 图书全文在线阅读器所链接的购买页面。
-- [网站地图](https://onchainfinity.art/sitemap.xml): 包含七个首页地址、七个艺术家自述页面，以及托管于onchainfinity.art的三个项目网站。旧版页面不在当前网站地图中。
+- [网站地图](https://onchainfinity.art/sitemap.xml): 包含九个首页地址、九个艺术家自述页面，以及托管于onchainfinity.art的三个项目网站。旧版页面不在当前网站地图中。
 
 ## 指南完整译本
 
 - [English](https://onchainfinity.art/llms.txt): 完整英语指南。
 - [Français](https://onchainfinity.art/fr/llms.txt): 完整法语指南。
+- [Deutsch](https://onchainfinity.art/de/llms.txt): 完整德语指南。
+- [Italiano](https://onchainfinity.art/it/llms.txt): 完整意大利语指南。
 - [Português](https://onchainfinity.art/pt/llms.txt): 完整欧洲葡萄牙语指南。
 - [Español](https://onchainfinity.art/es/llms.txt): 完整西班牙语指南。
 - [中文](https://onchainfinity.art/zh/llms.txt): 完整简体中文指南。

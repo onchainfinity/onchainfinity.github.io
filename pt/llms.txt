@@ -12,7 +12,7 @@ O deslumbramento convive com o receio de inteligências que os humanos poderão 
 
 Onchainfinity é o pseudónimo do artista. A página inicial e a apresentação do artista adotam uma voz pessoal, na primeira pessoa, que pode evocar Baudelaire, mas não é Baudelaire quem fala. Os nomes dos projetos e os títulos das faixas são nomes próprios. O francês é a referência editorial; o inglês é o idioma predefinido do site.
 
-Este guia apresenta o portefólio atual. A página inicial e a apresentação do artista estão disponíveis em sete idiomas; isso não significa que cada projeto, gravação ou livro tenha sete edições. Os sites dedicados aos projetos disponibilizam as suas próprias opções de escuta e informações atualizadas sobre os lançamentos.
+Este guia apresenta o portefólio atual. A página inicial e a apresentação do artista estão disponíveis em nove idiomas; isso não significa que cada projeto, gravação ou livro tenha nove edições. Os sites dedicados aos projetos disponibilizam as suas próprias opções de escuta e informações atualizadas sobre os lançamentos.
 
 ## O artista e a sua abordagem
 
@@ -33,6 +33,8 @@ Este guia apresenta o portefólio atual. A página inicial e a apresentação do
 
 - [Inglês](https://onchainfinity.art/): Idioma predefinido da página inicial.
 - [Francês](https://onchainfinity.art/fr/): Referência editorial para as traduções do site.
+- [Alemão](https://onchainfinity.art/de/): Página inicial em alemão.
+- [Italiano](https://onchainfinity.art/it/): Página inicial em italiano.
 - [Português](https://onchainfinity.art/pt/): Português europeu.
 - [Espanhol](https://onchainfinity.art/es/): Página inicial em espanhol.
 - [Chinês](https://onchainfinity.art/zh/): Chinês simplificado.
@@ -42,12 +44,14 @@ Este guia apresenta o portefólio atual. A página inicial e a apresentação do
 ## Recursos complementares
 
 - [Prompt BaudelAIre na Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Página de compra ligada ao leitor online do livro completo.
-- [Mapa do site](https://onchainfinity.art/sitemap.xml): Sete endereços da página inicial, sete páginas sobre o artista e três sites de projetos alojados em onchainfinity.art. As páginas antigas não fazem parte deste mapa atual.
+- [Mapa do site](https://onchainfinity.art/sitemap.xml): Nove endereços da página inicial, nove páginas sobre o artista e três sites de projetos alojados em onchainfinity.art. As páginas antigas não fazem parte deste mapa atual.
 
 ## Traduções integrais do guia
 
 - [English](https://onchainfinity.art/llms.txt): Guia integral em inglês.
 - [Français](https://onchainfinity.art/fr/llms.txt): Guia integral em francês.
+- [Deutsch](https://onchainfinity.art/de/llms.txt): Guia integral em alemão.
+- [Italiano](https://onchainfinity.art/it/llms.txt): Guia integral em italiano.
 - [Português](https://onchainfinity.art/pt/llms.txt): Guia integral em português europeu.
 - [Español](https://onchainfinity.art/es/llms.txt): Guia integral em espanhol.
 - [中文](https://onchainfinity.art/zh/llms.txt): Guia integral em chinês simplificado.

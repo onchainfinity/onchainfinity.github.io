@@ -12,7 +12,7 @@ L’émerveillement coexiste avec la crainte d’intelligences que les humains p
 
 Onchainfinity est le pseudonyme de l’artiste. L’accueil et l’À propos adoptent une voix personnelle, à la première personne, qui peut évoquer Baudelaire ; ce n’est pas Baudelaire qui s’exprime. Les noms des projets et les titres des morceaux sont des noms propres. Le français est la référence éditoriale ; l’anglais est la langue par défaut du site.
 
-Ce guide présente le portfolio actuel. L’accueil et l’À propos sont disponibles en sept langues ; cela ne signifie pas que chaque projet, enregistrement ou livre existe en sept éditions. Les sites dédiés aux projets proposent leurs propres possibilités d’écoute et leurs informations de parution à jour.
+Ce guide présente le portfolio actuel. L’accueil et l’À propos sont disponibles en neuf langues ; cela ne signifie pas que chaque projet, enregistrement ou livre existe en neuf éditions. Les sites dédiés aux projets proposent leurs propres possibilités d’écoute et leurs informations de parution à jour.
 
 ## L’artiste et sa démarche
 
@@ -33,6 +33,8 @@ Ce guide présente le portfolio actuel. L’accueil et l’À propos sont dispon
 
 - [Anglais](https://onchainfinity.art/): Langue par défaut de l’accueil.
 - [Français](https://onchainfinity.art/fr/): Référence éditoriale pour les traductions du site.
+- [Allemand](https://onchainfinity.art/de/): Accueil en allemand.
+- [Italien](https://onchainfinity.art/it/): Accueil en italien.
 - [Portugais](https://onchainfinity.art/pt/): Portugais européen.
 - [Espagnol](https://onchainfinity.art/es/): Accueil en espagnol.
 - [Chinois](https://onchainfinity.art/zh/): Chinois simplifié.
@@ -42,12 +44,14 @@ Ce guide présente le portfolio actuel. L’accueil et l’À propos sont dispon
 ## Ressources complémentaires
 
 - [Prompt BaudelAIre sur Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Page d’achat accessible depuis le feuilleteur intégral du livre.
-- [Plan du site](https://onchainfinity.art/sitemap.xml): Sept adresses d’accueil, sept pages À propos et trois sites de projets hébergés sur onchainfinity.art. Les anciennes pages sont exclues de ce plan du site actuel.
+- [Plan du site](https://onchainfinity.art/sitemap.xml): Neuf adresses d’accueil, neuf pages À propos et trois sites de projets hébergés sur onchainfinity.art. Les anciennes pages sont exclues de ce plan du site actuel.
 
 ## Traductions intégrales du guide
 
 - [English](https://onchainfinity.art/llms.txt): Guide intégral en anglais.
 - [Français](https://onchainfinity.art/fr/llms.txt): Guide intégral en français.
+- [Deutsch](https://onchainfinity.art/de/llms.txt): Guide intégral en allemand.
+- [Italiano](https://onchainfinity.art/it/llms.txt): Guide intégral en italien.
 - [Português](https://onchainfinity.art/pt/llms.txt): Guide intégral en portugais européen.
 - [Español](https://onchainfinity.art/es/llms.txt): Guide intégral en espagnol.
 - [中文](https://onchainfinity.art/zh/llms.txt): Guide intégral en chinois simplifié.

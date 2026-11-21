@@ -12,7 +12,7 @@ El asombro convive con el temor a inteligencias que los humanos podrían dejar d
 
 Onchainfinity es el seudónimo del artista. El inicio y la presentación del artista adoptan una voz personal, en primera persona, que puede evocar a Baudelaire, pero no es Baudelaire quien habla. Los nombres de los proyectos y los títulos de las canciones son nombres propios. El francés es la referencia editorial; el inglés es el idioma predeterminado del sitio.
 
-Esta guía presenta el portafolio actual. El inicio y la presentación del artista están disponibles en siete idiomas; esto no significa que cada proyecto, grabación o libro tenga siete ediciones. Los sitios dedicados a los proyectos ofrecen sus propias opciones de escucha e información actualizada sobre los lanzamientos.
+Esta guía presenta el portafolio actual. El inicio y la presentación del artista están disponibles en nueve idiomas; esto no significa que cada proyecto, grabación o libro tenga nueve ediciones. Los sitios dedicados a los proyectos ofrecen sus propias opciones de escucha e información actualizada sobre los lanzamientos.
 
 ## El artista y su mirada
 
@@ -33,6 +33,8 @@ Esta guía presenta el portafolio actual. El inicio y la presentación del artis
 
 - [Inglés](https://onchainfinity.art/): Idioma predeterminado del inicio.
 - [Francés](https://onchainfinity.art/fr/): Referencia editorial para las traducciones del sitio.
+- [Alemán](https://onchainfinity.art/de/): Inicio en alemán.
+- [Italiano](https://onchainfinity.art/it/): Inicio en italiano.
 - [Portugués](https://onchainfinity.art/pt/): Portugués europeo.
 - [Español](https://onchainfinity.art/es/): Inicio en español.
 - [Chino](https://onchainfinity.art/zh/): Chino simplificado.
@@ -42,12 +44,14 @@ Esta guía presenta el portafolio actual. El inicio y la presentación del artis
 ## Recursos complementarios
 
 - [Prompt BaudelAIre en Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Página de compra enlazada desde el lector del libro completo.
-- [Mapa del sitio](https://onchainfinity.art/sitemap.xml): Siete direcciones de inicio, siete páginas sobre el artista y tres sitios de proyectos alojados en onchainfinity.art. Las páginas antiguas no forman parte de este mapa actual.
+- [Mapa del sitio](https://onchainfinity.art/sitemap.xml): Nueve direcciones de inicio, nueve páginas sobre el artista y tres sitios de proyectos alojados en onchainfinity.art. Las páginas antiguas no forman parte de este mapa actual.
 
 ## Traducciones completas de la guía
 
 - [English](https://onchainfinity.art/llms.txt): Guía completa en inglés.
 - [Français](https://onchainfinity.art/fr/llms.txt): Guía completa en francés.
+- [Deutsch](https://onchainfinity.art/de/llms.txt): Guía completa en alemán.
+- [Italiano](https://onchainfinity.art/it/llms.txt): Guía completa en italiano.
 - [Português](https://onchainfinity.art/pt/llms.txt): Guía completa en portugués europeo.
 - [Español](https://onchainfinity.art/es/llms.txt): Guía completa en español.
 - [中文](https://onchainfinity.art/zh/llms.txt): Guía completa en chino simplificado.

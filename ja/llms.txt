@@ -12,7 +12,7 @@ Onchainfinityにとって、AIは人間の広大だが不完全な映し姿を�
 
 Onchainfinityはアーティストの活動名。ホームとアーティストについてのページは個人的な一人称で語られ、ボードレールを思わせることがあっても、ボードレール本人が語っているわけではない。プロジェクト名と曲名は固有名として扱う。フランス語が編集上の基準で、英語がサイトの既定の言語となる。
 
-このガイドは現在のポートフォリオを紹介する。ホームとアーティストについてのページは7言語で読めるが、すべてのプロジェクト、音源、本に7言語版があるという意味ではない。各プロジェクトの専用サイトには、それぞれの試聴方法や最新のリリース情報が掲載されている。
+このガイドは現在のポートフォリオを紹介する。ホームとアーティストについてのページは9言語で読めるが、すべてのプロジェクト、音源、本に9言語版があるという意味ではない。各プロジェクトの専用サイトには、それぞれの試聴方法や最新のリリース情報が掲載されている。
 
 ## アーティストと創作の姿勢
 
@@ -33,6 +33,8 @@ Onchainfinityはアーティストの活動名。ホームとアーティスト�
 
 - [英語](https://onchainfinity.art/): ホームの既定の言語。
 - [フランス語](https://onchainfinity.art/fr/): サイトの翻訳における編集上の基準。
+- [ドイツ語](https://onchainfinity.art/de/): ドイツ語のホーム。
+- [イタリア語](https://onchainfinity.art/it/): イタリア語のホーム。
 - [ポルトガル語](https://onchainfinity.art/pt/): ヨーロッパ・ポルトガル語。
 - [スペイン語](https://onchainfinity.art/es/): スペイン語のホーム。
 - [中国語](https://onchainfinity.art/zh/): 簡体字中国語。
@@ -42,12 +44,14 @@ Onchainfinityはアーティストの活動名。ホームとアーティスト�
 ## 補足資料
 
 - [AmazonのPrompt BaudelAIre](https://www.amazon.fr/dp/B0CHL1C7G9): 本の全文を閲覧できるオンラインリーダーから案内される購入ページ。
-- [サイトマップ](https://onchainfinity.art/sitemap.xml): ホームの7つのURL、アーティストについての7つのURL、onchainfinity.art上の3つのプロジェクトサイトを掲載。旧ページは現在のサイトマップには含まれていない。
+- [サイトマップ](https://onchainfinity.art/sitemap.xml): ホームの9つのURL、アーティストについての9つのURL、onchainfinity.art上の3つのプロジェクトサイトを掲載。旧ページは現在のサイトマップには含まれていない。
 
 ## ガイド全文の各言語版
 
 - [English](https://onchainfinity.art/llms.txt): 英語のガイド全文。
 - [Français](https://onchainfinity.art/fr/llms.txt): フランス語のガイド全文。
+- [Deutsch](https://onchainfinity.art/de/llms.txt): ドイツ語のガイド全文。
+- [Italiano](https://onchainfinity.art/it/llms.txt): イタリア語のガイド全文。
 - [Português](https://onchainfinity.art/pt/llms.txt): ヨーロッパ・ポルトガル語のガイド全文。
 - [Español](https://onchainfinity.art/es/llms.txt): スペイン語のガイド全文。
 - [中文](https://onchainfinity.art/zh/llms.txt): 簡体字中国語のガイド全文。

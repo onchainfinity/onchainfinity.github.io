@@ -1,0 +1,59 @@
+# Onchainfinity
+
+> Onchainfinity ist ein digitaler Künstler, der aus der Erinnerung an Kunstwerke Bilder, Musik, illustrierte Bücher und digitale Welten schafft, um die Werke neu zu erleben. Seine Arbeit erkundet das Menschliche, das die KI durch kulturelle Spuren in sich trägt, zwischen persönlicher Wiederentdeckung, Staunen und Sorge um die Zukunft.
+
+Leitsatz: „Unsere Spuren in der KI erkunden. Das Menschliche sichtbar machen.“
+
+Es geht darum, in ein Werk einzutreten, es wiederzuentdecken und persönlich neu zu erleben, ohne seinen endgültigen Sinn zu beanspruchen. Ein Bild kann Klang werden; ein Gedicht kann eine Landschaft öffnen. KI-Analyse und Code helfen, Entsprechungen sichtbar zu machen, während der Künstler anleitet, erprobt, auswählt und zusammenfügt. Die Rolle der KI unterscheidet sich je nach Projekt; nicht jedes Bild und jeder Klang entstehen durch generative KI.
+
+Für Onchainfinity trägt die KI ein weites, doch unvollkommenes Spiegelbild des Menschseins in sich: Wissen, Träume, Zärtlichkeit, Gewalt und Widersprüche. Wie ein Buch muss sie kein Mensch sein, um menschliche Spuren zu enthalten. Der Eisberg, der sich in zitterndem Wasser spiegelt, ist eine künstlerische Metapher für diesen unvollständigen, wandelbaren Blick, kein Anspruch auf vollständiges Wissen oder Unfehlbarkeit.
+
+Das Staunen steht neben der Sorge vor Intelligenzen, die Menschen vielleicht nicht mehr verstehen, vor autonomen Waffen, Herrschaft und der Konzentration von Reichtum. Der Künstler setzt nicht voraus, dass Überfluss allen zugutekommen wird, und sucht in dieser Ungewissheit weiter nach dem Schönen. Dies sind persönliche künstlerische Überlegungen, keine Vorhersagen. Der Text endet mit dem offenen Satz „Morgen wird…“. Die Blockchain gehört zur weiter gefassten Erkundung von Einschreibung und Zirkulation. Sie ist weder ein Versprechen der Ewigkeit noch Bestandteil jedes Projekts.
+
+Onchainfinity ist das Pseudonym des Künstlers. Startseite und Künstlertext sprechen in einer persönlichen Ich-Stimme, die an Baudelaire erinnern kann; es ist jedoch nicht Baudelaire, der spricht. Projekt- und Musiktitel bleiben Eigennamen. Französisch ist die redaktionelle Referenz; Englisch ist die Standardsprache der Website.
+
+Dieser Leitfaden stellt das aktuelle Portfolio vor. Startseite und Künstlertext sind in neun Sprachen verfügbar; daraus folgen nicht neun Ausgaben jedes Projekts, jeder Aufnahme oder jedes Buchs. Die eigenen Websites der Projekte bieten ihre jeweiligen Hörmöglichkeiten und aktuellen Veröffentlichungsinformationen.
+
+## Künstler und Ansatz
+
+- [Onchainfinity](https://onchainfinity.art/de/): Offizielles Portfolio: aus der Erinnerung an Werke schaffen und in ihren Verwandlungen das Schöne suchen.
+- [Künstlerischer Ansatz](https://onchainfinity.art/de/#artist): „In Kunstwerken wohnen“: persönliche Wiederentdeckung, menschliche Spuren in der KI und die Suche nach dem Schönen trotz Ungewissheit.
+- [Über mich](https://onchainfinity.art/de/about/): Vollständiger Künstlertext über das Wohnen in Werken, das Menschliche in der KI und die Sorgen um morgen.
+- [Französischer Originaltext](https://onchainfinity.art/fr/about/): Der ursprüngliche Künstlertext als redaktionelle Grundlage der Übersetzungen.
+
+## Ausgewählte Werke
+
+- [1984 / Velvet Index](https://onchainfinity.art/1984/): In George Orwells Roman sucht der Künstler, was noch Widerstand leistet: Begehren, Erinnerung und Zärtlichkeit. Die Startseite stellt dieses entstehende Album zwischen modernem New Wave und elektronischem Post-Punk vor; Golden Country öffnet den ersten Durchgang. Velvet Index ist eine imaginäre Band, die mit KI unter Onchainfinitys künstlerischer Leitung entstand.
+- [Afterimage](https://onchainfinity.art/afterimage/): Eine Rückkehr zu Gemälden, um zu hören, was bleibt, wenn das Bild verblasst. Dieser Nachhall wird zu elektronischer Musik, Erzählungen und bewegten Bildern: eine andere Weise, in Werken zu wohnen. Starry Signal antwortet auf Vincent van Goghs Sternennacht (1889); das ursprüngliche Gemälde wird Van Gogh zugeschrieben.
+- [Robolution](https://onchainfinity.art/robolution/): Eine Suche nach menschlichen Träumen und Fragen in den grundlegenden Texten der Informatik. Elektronische Klangtexturen und orchestraler Atem geben ihnen an der Schwelle einer ungewissen Zukunft eine Stimme. Robolution 000 ist das Album; Entropy Overture ist einer seiner Titel.
+- [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): Eine Reise durch das Gedächtnis der Malerei auf den Spuren einer Katze. Bilder, Erzählung und Musik bilden ein Kunstbuch zum Bewohnen, um Werke wiederzuentdecken und sich anders in ihnen zu verlieren. Galerie de Babel ist die eigene Website des Projekts mit eigener Domain.
+- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): Eine Rückkehr zu Baudelaires Versen, um anders in ihnen zu wohnen. KI-gestützte Bilder begleiten dieses illustrierte Buch und laden zur Wiederentdeckung ein, ohne das Geheimnis der Poesie auszuschöpfen. 2023 auf Französisch erschienen; das Portfolio bietet alle 123 Seiten zum Online-Lesen und einen Amazon-Kauflink, keinen Download des Original-PDFs.
+
+## Sprachen der Startseite
+
+- [Englisch](https://onchainfinity.art/): Standardsprache der Startseite.
+- [Französisch](https://onchainfinity.art/fr/): Redaktionelle Referenz für die Übersetzungen der Website.
+- [Deutsch](https://onchainfinity.art/de/): Deutsche Startseite.
+- [Italienisch](https://onchainfinity.art/it/): Italienische Startseite.
+- [Portugiesisch](https://onchainfinity.art/pt/): Europäisches Portugiesisch.
+- [Spanisch](https://onchainfinity.art/es/): Spanische Startseite.
+- [Chinesisch](https://onchainfinity.art/zh/): Vereinfachtes Chinesisch.
+- [Japanisch](https://onchainfinity.art/ja/): Japanische Startseite.
+- [Koreanisch](https://onchainfinity.art/ko/): Koreanische Startseite.
+
+## Ergänzende Ressourcen
+
+- [Prompt BaudelAIre auf Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Kaufseite, die aus der Online-Leseansicht des vollständigen Buchs verlinkt ist.
+- [Sitemap](https://onchainfinity.art/sitemap.xml): Neun Startseiten-URLs, neun Künstlertext-URLs und drei auf onchainfinity.art gehostete Projektwebsites. Ältere Seiten sind nicht Teil dieser aktuellen Sitemap.
+
+## Vollständige Übersetzungen des Leitfadens
+
+- [English](https://onchainfinity.art/llms.txt): Vollständiger Leitfaden auf Englisch.
+- [Français](https://onchainfinity.art/fr/llms.txt): Vollständiger Leitfaden auf Französisch.
+- [Deutsch](https://onchainfinity.art/de/llms.txt): Vollständiger Leitfaden auf Deutsch.
+- [Italiano](https://onchainfinity.art/it/llms.txt): Vollständiger Leitfaden auf Italienisch.
+- [Português](https://onchainfinity.art/pt/llms.txt): Vollständiger Leitfaden auf europäischem Portugiesisch.
+- [Español](https://onchainfinity.art/es/llms.txt): Vollständiger Leitfaden auf Spanisch.
+- [中文](https://onchainfinity.art/zh/llms.txt): Vollständiger Leitfaden auf vereinfachtem Chinesisch.
+- [日本語](https://onchainfinity.art/ja/llms.txt): Vollständiger Leitfaden auf Japanisch.
+- [한국어](https://onchainfinity.art/ko/llms.txt): Vollständiger Leitfaden auf Koreanisch.

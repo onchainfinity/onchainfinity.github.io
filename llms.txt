@@ -13,7 +13,7 @@ Wonder coexists with concerns about intelligences humans may no longer understan
 
 Onchainfinity is the artist's pseudonym. The homepage and About use a personal, first-person voice that may evoke Baudelaire, but it is not Baudelaire speaking. Project names and track titles are proper names. French is the editorial reference; English is the default site language.
 
-This guide covers the current portfolio. The homepage and About are available in seven languages; this does not imply seven editions of every project, recording or book. The dedicated project sites provide their own listening options and current release information.
+This guide covers the current portfolio. The homepage and About are available in nine languages; this does not imply nine editions of every project, recording or book. The dedicated project sites provide their own listening options and current release information.
 
 ## Artist and approach
 
@@ -34,6 +34,8 @@ This guide covers the current portfolio. The homepage and About are available in
 
 - [English](https://onchainfinity.art/): Default homepage language.
 - [French](https://onchainfinity.art/fr/): French is the editorial reference for the site's translations.
+- [German](https://onchainfinity.art/de/): German homepage.
+- [Italian](https://onchainfinity.art/it/): Italian homepage.
 - [Portuguese](https://onchainfinity.art/pt/): European Portuguese.
 - [Spanish](https://onchainfinity.art/es/): Spanish homepage.
 - [Chinese](https://onchainfinity.art/zh/): Simplified Chinese.
@@ -43,12 +45,14 @@ This guide covers the current portfolio. The homepage and About are available in
 ## Optional
 
 - [Prompt BaudelAIre on Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Purchase page linked from the complete online book reader.
-- [Sitemap](https://onchainfinity.art/sitemap.xml): Seven homepage URLs, seven About URLs and three project sites hosted on onchainfinity.art. Legacy pages are not part of this current sitemap.
+- [Sitemap](https://onchainfinity.art/sitemap.xml): Nine homepage URLs, nine About URLs and three project sites hosted on onchainfinity.art. Legacy pages are not part of this current sitemap.
 
 ## Complete guide translations
 
 - [English](https://onchainfinity.art/llms.txt): Complete guide in English.
 - [Français](https://onchainfinity.art/fr/llms.txt): Complete guide in French.
+- [Deutsch](https://onchainfinity.art/de/llms.txt): Complete guide in German.
+- [Italiano](https://onchainfinity.art/it/llms.txt): Complete guide in Italian.
 - [Português](https://onchainfinity.art/pt/llms.txt): Complete guide in European Portuguese.
 - [Español](https://onchainfinity.art/es/llms.txt): Complete guide in Spanish.
 - [中文](https://onchainfinity.art/zh/llms.txt): Complete guide in Simplified Chinese.
