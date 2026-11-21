@@ -28,12 +28,12 @@ This guide covers the current portfolio. The linked project pages provide their 
 ## Homepage languages
 
 - [English](https://onchainfinity.art/): Default homepage language.
-- [French](https://onchainfinity.art/?lang=fr): French is the editorial reference for the site's translations.
-- [Portuguese](https://onchainfinity.art/?lang=pt): European Portuguese.
-- [Spanish](https://onchainfinity.art/?lang=es): Spanish homepage.
-- [Chinese](https://onchainfinity.art/?lang=zh): Simplified Chinese.
-- [Japanese](https://onchainfinity.art/?lang=ja): Japanese homepage.
-- [Korean](https://onchainfinity.art/?lang=ko): Korean homepage.
+- [French](https://onchainfinity.art/fr/): French is the editorial reference for the site's translations.
+- [Portuguese](https://onchainfinity.art/pt/): European Portuguese.
+- [Spanish](https://onchainfinity.art/es/): Spanish homepage.
+- [Chinese](https://onchainfinity.art/zh/): Simplified Chinese.
+- [Japanese](https://onchainfinity.art/ja/): Japanese homepage.
+- [Korean](https://onchainfinity.art/ko/): Korean homepage.
 
 ## Optional
 

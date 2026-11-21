@@ -142,14 +142,92 @@ const features = [
   { id: 'prompt-chat', name: 'Prompt Chat sur Toile', shareUrl: 'https://galeriedebabel.art/', image: 'prompt-chat.jpg', alt: 'chat.alt', detail: 'feature.chat', position: '50% 65%', audio: { title: 'La Galerie de Babel', file: 'galerie-de-babel-excerpt.mp3' } },
   { id: 'prompt-baudelaire', name: 'Prompt BaudelAIre', image: 'baudelaire-034.jpg', alt: 'book.right', detail: 'feature.book', position: '50% 48%' }
 ];
+function languagePath(code) {
+  return code === 'en' ? '' : `${code}/`;
+}
+
+function createPageMetadata(code) {
+  const language = Object.hasOwn(translations, code) ? code : 'en';
+  const copy = translations[language];
+  const base = 'https://onchainfinity.art/';
+  const url = base + languagePath(language);
+  const artist = { '@id': `${base}#onchainfinity` };
+  const website = { '@id': `${base}#website` };
+  const group = { '@id': `${base}1984/#velvet-index` };
+  const descriptions = ['orwell.description', 'afterimage.description', 'robolution.description', 'chat.description', 'book.description'];
+  const types = ['MusicAlbum', 'CreativeWorkSeries', 'MusicAlbum', 'Book', 'Book'];
+  const works = features.map((feature, index) => {
+    const address = feature.shareUrl || `${base}#prompt-baudelaire`;
+    const work = { '@type': types[index], '@id': `${base}#work-${feature.id}`, name: feature.id === 'robolution' ? 'Robolution 000' : feature.name,
+      url: address, description: copy[descriptions[index]], creator: artist };
+    if (feature.id === 'nineteen-eighty-four') {
+      work.byArtist = group;
+      work.creditText = copy['orwell.credit'];
+      work.isBasedOn = { '@type': 'Book', name: '1984', author: { '@type': 'Person', name: 'George Orwell' } };
+    }
+    if (feature.id === 'robolution') work.byArtist = artist;
+    if (feature.id === 'prompt-baudelaire') {
+      work.inLanguage = 'fr';
+      work.isBasedOn = { '@type': 'CreativeWork', author: { '@type': 'Person', name: 'Charles Baudelaire' } };
+    }
+    if (feature.audio) {
+      const track = { '@id': `${base}#recording-${feature.id}` };
+      if (work['@type'] === 'MusicAlbum') work.track = track;
+      else work.hasPart = track;
+    }
+    return work;
+  });
+  const recordings = features.filter(feature => feature.audio).map(feature => ({
+    '@type': 'MusicRecording', '@id': `${base}#recording-${feature.id}`, name: feature.audio.title,
+    byArtist: feature.id === 'nineteen-eighty-four' ? group : artist,
+    audio: { '@type': 'AudioObject', name: `${feature.audio.title} - ${copy['excerpt.duration']}`,
+      contentUrl: `${base}assets/${feature.audio.file}`, encodingFormat: 'audio/mpeg', duration: 'PT45S' }
+  }));
+  return {
+    url, title: copy.title, description: `Onchainfinity. ${copy['hero.description']}`,
+    graph: { '@context': 'https://schema.org', '@graph': [
+      { '@type': 'Person', ...artist, name: 'Onchainfinity', url: `${base}#artist`, description: copy['artist.lead'] },
+      { '@type': 'WebSite', ...website, name: 'Onchainfinity', url: base, publisher: artist, inLanguage: Object.keys(translations) },
+      { '@type': 'CollectionPage', '@id': `${url}#webpage`, url, name: copy.title, description: copy['hero.description'],
+        inLanguage: language, isPartOf: website, about: artist, mainEntity: { '@id': `${url}#selected-works` } },
+      { '@type': 'ItemList', '@id': `${url}#selected-works`, name: copy['works.title'],
+        itemListElement: works.map((work, index) => ({ '@type': 'ListItem', position: index + 1, item: { '@id': work['@id'] } })) },
+      { '@type': 'MusicGroup', ...group, name: 'Velvet Index', description: copy['orwell.credit'] },
+      ...works, ...recordings
+    ] }
+  };
+}
+
 const $ = (selector) => document.querySelector(selector);
 const storage = {
   get(key) { try { return localStorage.getItem(key); } catch { return null; } },
   set(key, value) { try { localStorage.setItem(key, value); } catch { /* Browsing must work without storage. */ } }
 };
 const params = new URLSearchParams(location.search);
-let language = params.get('lang') || storage.get('onchainfinity-atelier-language') || 'en';
+const siteRoot = new URL(document.documentElement.dataset.siteRoot || './', location.href);
+const assetUrl = (file) => new URL(`assets/${file}`, siteRoot).href;
+function localLanguageUrl(code) {
+  const url = new URL(languagePath(code), siteRoot);
+  url.search = location.search;
+  url.searchParams.delete('lang');
+  url.hash = location.hash;
+  return url;
+}
+function routeLanguage() {
+  const code = location.pathname.slice(siteRoot.pathname.length).split('/')[0];
+  return Object.hasOwn(translations, code) ? code : 'en';
+}
+let language = Object.hasOwn(translations, params.get('lang')) ? params.get('lang') : document.documentElement.lang || 'en';
 if (!Object.hasOwn(translations, language)) language = 'en';
+// Keep already-loaded and lazy resources stable during in-place language navigation.
+document.querySelectorAll('img[src], script[src], link[rel="stylesheet"], link[rel="preload"], link[rel="describedby"]').forEach((element) => {
+  const attribute = element.hasAttribute('src') ? 'src' : 'href';
+  element.setAttribute(attribute, new URL(element.getAttribute(attribute), location.href).href);
+});
+if (Object.hasOwn(translations, params.get('lang'))) {
+  const legacy = localLanguageUrl(params.get('lang'));
+  if (legacy.href !== location.href) location.replace(legacy.href);
+}
 let featureIndex = features.findIndex((feature) => feature.id === params.get('work'));
 if (featureIndex < 0) featureIndex = Math.floor(Math.random() * features.length);
 let requestedFeatureIndex = featureIndex;
@@ -177,9 +255,8 @@ let shareRevision = 0;
 function getShareData(id) {
   const feature = features.find((item) => item.id === id);
   // Never share a local preview address, filesystem path, or incoming tracking parameters.
-  const url = new URL(feature?.shareUrl || 'https://onchainfinity.art/');
+  const url = new URL(feature?.shareUrl || createPageMetadata(language).url);
   if (!feature?.shareUrl) {
-    url.searchParams.set('lang', language);
     if (feature) {
       url.searchParams.set('work', feature.id);
       url.hash = feature.id;
@@ -289,7 +366,7 @@ function updateAudioText() {
   if (audioFeature) {
     $('#player-title').textContent = audioFeature.audio.title;
     $('#player-caption').textContent = `${audioFeature.name} · ${t('excerpt.duration')}`;
-    $('#player-image').src = `./assets/${audioFeature.image}`;
+    $('#player-image').src = assetUrl(audioFeature.image);
   }
 }
 
@@ -348,14 +425,14 @@ function setFeature(index, animate = true) {
     featureLoading = false;
     scheduleRotation();
   };
-  image.src = `./assets/${feature.image}`;
+  image.src = assetUrl(feature.image);
 }
 
 function updateBook() {
   const pages = bookSpreads[bookSpread];
   ['left', 'right'].forEach((side, index) => {
     const image = $(`#book-page-${side}`);
-    image.src = `./assets/baudelaire-${String(pages[index]).padStart(3, '0')}.jpg`;
+    image.src = assetUrl(`baudelaire-${String(pages[index]).padStart(3, '0')}.jpg`);
     image.alt = `${t('book.page.alt')} ${pages[index]}`;
   });
   $('#book-counter').textContent = `${t('book.pages')} ${pages[0]}–${pages[1]}`;
@@ -363,19 +440,33 @@ function updateBook() {
   $('#book-next').disabled = bookSpread === bookSpreads.length - 1;
 }
 
-function setLanguage(code) {
+function setLanguage(code, historyMode = 'replace') {
   language = Object.hasOwn(translations, code) ? code : 'en';
-  // A single language-specific canonical avoids collapsing translations into English.
+  const metadata = createPageMetadata(language);
   let canonical = $('link[rel="canonical"]');
   if (!canonical) {
     canonical = document.createElement('link');
     canonical.rel = 'canonical';
     document.head.append(canonical);
   }
-  canonical.href = `https://onchainfinity.art/${language === 'en' ? '' : `?lang=${language}`}`;
+  canonical.href = metadata.url;
   document.documentElement.lang = language;
-  document.title = t('title');
-  $('meta[name="description"]').content = `Onchainfinity. ${t('hero.description')}`;
+  document.title = metadata.title;
+  $('meta[name="description"]').content = metadata.description;
+  $('meta[property="og:title"]').content = metadata.title;
+  $('meta[property="og:description"]').content = t('hero.description');
+  $('meta[property="og:image:alt"]').content = t('robolution.alt');
+  $('meta[property="og:url"]').content = metadata.url;
+  if ($('#site-data')) $('#site-data').textContent = JSON.stringify(metadata.graph);
+  document.querySelectorAll('[data-language]').forEach((link) => {
+    link.href = localLanguageUrl(link.dataset.language).href;
+    if (link.dataset.language === language) link.setAttribute('aria-current', 'page');
+    else link.removeAttribute('aria-current');
+  });
+  const url = localLanguageUrl(language);
+  if (historyMode !== 'none' && url.href !== location.href) {
+    history[historyMode === 'push' ? 'pushState' : 'replaceState'](null, '', url.href);
+  }
   $('#language').value = language;
   document.querySelectorAll('[data-i18n]').forEach((element) => { element.textContent = t(element.dataset.i18n); });
   document.querySelectorAll('[data-label]').forEach((element) => { element.setAttribute('aria-label', t(element.dataset.label)); element.title = t(element.dataset.label); });
@@ -418,7 +509,13 @@ $('#share-native').addEventListener('click', shareNatively);
 $('#share-url').addEventListener('click', (event) => event.target.select());
 $('#share-dialog').addEventListener('close', () => { shareRevision += 1; });
 
-$('#language').addEventListener('change', (event) => setLanguage(event.target.value));
+$('#language').addEventListener('change', (event) => setLanguage(event.target.value, 'push'));
+document.querySelectorAll('[data-language]').forEach((link) => link.addEventListener('click', (event) => {
+  if (event.button || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+  event.preventDefault();
+  setLanguage(link.dataset.language, 'push');
+}));
+window.addEventListener('popstate', () => setLanguage(routeLanguage(), 'none'));
 $('#feature-prev').addEventListener('click', () => setFeature(requestedFeatureIndex - 1));
 $('#feature-next').addEventListener('click', () => setFeature(requestedFeatureIndex + 1));
 $('#feature-toggle').addEventListener('click', () => {
@@ -465,7 +562,7 @@ async function playExcerpt(feature, button) {
   $('#audio-status').textContent = '';
   if (changed) {
     audio.pause();
-    audio.src = `./assets/${feature.audio.file}`;
+    audio.src = assetUrl(feature.audio.file);
     audio.load();
   }
   updateAudioText();
@@ -503,7 +600,7 @@ $('#close-player').addEventListener('click', () => {
 });
 
 document.querySelectorAll('[data-image]').forEach((button) => button.addEventListener('click', () => {
-  $('#art-image').src = `./assets/${button.dataset.image}`;
+  $('#art-image').src = assetUrl(button.dataset.image);
   $('#art-image').alt = t(button.dataset.caption);
   $('#art-caption').textContent = t(button.dataset.caption);
   $('#art-dialog').dataset.caption = button.dataset.caption;
