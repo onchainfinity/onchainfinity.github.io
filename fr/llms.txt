@@ -27,7 +27,7 @@ Ce guide présente le portfolio actuel. L’accueil et l’À propos sont dispon
 - [Afterimage](https://onchainfinity.art/afterimage/): Un retour aux tableaux pour écouter ce qui demeure lorsque l’image s’efface. Ces rémanences deviennent musiques électroniques, récits et images en mouvement : une autre manière d’habiter les œuvres. Starry Signal répond à La Nuit étoilée (1889) de Vincent van Gogh ; le tableau d’origine est attribué à Van Gogh.
 - [Robolution](https://onchainfinity.art/robolution/): Une recherche de nos rêves et de nos questions dans les textes fondateurs de l’informatique. Textures électroniques et souffle orchestral les font résonner au seuil d’un avenir incertain. Robolution 000 est l’album ; Entropy Overture en est l’un des morceaux.
 - [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): Une traversée de la mémoire de la peinture sur les pas d’un chat. Images, récit et musique composent un livre d’art à habiter, pour retrouver les œuvres et s’y perdre autrement. Galerie de Babel est le site dédié au projet, sur son propre domaine.
-- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): Un retour aux vers de Baudelaire pour les habiter autrement. Des images réalisées avec l’aide de l’IA accompagnent ce livre illustré, invitant à redécouvrir la poésie sans en épuiser le mystère. Publié en français en 2023 ; le portfolio propose des pages choisies et un lien d’achat Amazon, pas le PDF intégral.
+- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): Un retour aux vers de Baudelaire pour les habiter autrement. Des images réalisées avec l’aide de l’IA accompagnent ce livre illustré, invitant à redécouvrir la poésie sans en épuiser le mystère. Publié en français en 2023 ; le portfolio propose les 123 pages à feuilleter en ligne et un lien d’achat Amazon, sans téléchargement du PDF original.
 
 ## Langues de l’accueil
 
@@ -41,7 +41,7 @@ Ce guide présente le portfolio actuel. L’accueil et l’À propos sont dispon
 
 ## Ressources complémentaires
 
-- [Prompt BaudelAIre sur Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Page d’achat accessible depuis l’extrait du livre.
+- [Prompt BaudelAIre sur Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Page d’achat accessible depuis le feuilleteur intégral du livre.
 - [Plan du site](https://onchainfinity.art/sitemap.xml): Sept adresses d’accueil, sept pages À propos et trois sites de projets hébergés sur onchainfinity.art. Les anciennes pages sont exclues de ce plan du site actuel.
 
 ## Traductions intégrales du guide

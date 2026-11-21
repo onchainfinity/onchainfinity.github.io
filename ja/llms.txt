@@ -27,7 +27,7 @@ Onchainfinityはアーティストの活動名。ホームとアーティスト�
 - [Afterimage](https://onchainfinity.art/afterimage/): 絵画へ戻り、イメージが消えたあとにも残るものに耳を澄ます。その余韻は電子音楽、物語、動くイメージとなり、作品に住まうもうひとつの方法になる。Starry Signalはフィンセント・ファン・ゴッホの『星月夜』（1889年）に応答する作品。原画の作者はファン・ゴッホと明記されている。
 - [Robolution](https://onchainfinity.art/robolution/): コンピューター科学の基礎を築いた文章のなかに、人間の夢や問いを探す。電子的な音の質感とオーケストラの息づかいが、不確かな未来の入口でそれらを響かせる。Robolution 000はアルバム名、Entropy Overtureはその収録曲のひとつ。
 - [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): 猫の足取りを追い、絵画の記憶を渡る旅。イメージ、物語、音楽が、そこに住まうためのアートブックを形づくる。作品と再会し、違ったかたちでそのなかに迷い込むために。Galerie de Babelは独自ドメインを持つ、このプロジェクトの専用サイト。
-- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): ボードレールの詩句へ戻り、別のかたちでそのなかに住まう試み。AIの助けを借りてつくられたイメージが挿絵のある本に寄り添い、詩の謎を汲み尽くすことなく再発見へと誘う。2023年にフランス語で刊行。ポートフォリオでは一部のページとAmazonの購入リンクを案内し、完全版PDFは公開していない。
+- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): ボードレールの詩句へ戻り、別のかたちでそのなかに住まう試み。AIの助けを借りてつくられたイメージが挿絵のある本に寄り添い、詩の謎を汲み尽くすことなく再発見へと誘う。2023年にフランス語で刊行。ポートフォリオでは全123ページをオンラインで閲覧でき、Amazonの購入リンクも案内している。原本PDFのダウンロードは提供していない。
 
 ## ホームの言語
 
@@ -41,7 +41,7 @@ Onchainfinityはアーティストの活動名。ホームとアーティスト�
 
 ## 補足資料
 
-- [AmazonのPrompt BaudelAIre](https://www.amazon.fr/dp/B0CHL1C7G9): 本の試し読みから案内される購入ページ。
+- [AmazonのPrompt BaudelAIre](https://www.amazon.fr/dp/B0CHL1C7G9): 本の全文を閲覧できるオンラインリーダーから案内される購入ページ。
 - [サイトマップ](https://onchainfinity.art/sitemap.xml): ホームの7つのURL、アーティストについての7つのURL、onchainfinity.art上の3つのプロジェクトサイトを掲載。旧ページは現在のサイトマップには含まれていない。
 
 ## ガイド全文の各言語版

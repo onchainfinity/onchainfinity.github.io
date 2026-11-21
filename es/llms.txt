@@ -27,7 +27,7 @@ Esta guía presenta el portafolio actual. El inicio y la presentación del artis
 - [Afterimage](https://onchainfinity.art/afterimage/): Un regreso a los cuadros para escuchar lo que permanece cuando la imagen se desvanece. Estas impresiones persistentes se convierten en música electrónica, relatos e imágenes en movimiento: otra forma de habitar las obras. Starry Signal responde a La noche estrellada (1889), de Vincent van Gogh; la pintura original se atribuye a Van Gogh.
 - [Robolution](https://onchainfinity.art/robolution/): Una búsqueda de nuestros sueños y nuestras preguntas en los textos fundacionales de la informática. Las texturas electrónicas y el aliento orquestal les dan voz en el umbral de un futuro incierto. Robolution 000 es el álbum; Entropy Overture es uno de sus temas.
 - [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): Una travesía por la memoria de la pintura siguiendo los pasos de un gato. Imágenes, relato y música componen un libro de arte que habitar, para reencontrarse con las obras y perderse en ellas de otro modo. Galerie de Babel es el sitio dedicado al proyecto, con dominio propio.
-- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): Un regreso a los versos de Baudelaire para habitarlos de otro modo. Imágenes creadas con ayuda de la IA acompañan este libro ilustrado, invitando al redescubrimiento sin agotar el misterio de la poesía. Publicado en francés en 2023; el portafolio ofrece páginas seleccionadas y un enlace de compra en Amazon, no el PDF completo.
+- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): Un regreso a los versos de Baudelaire para habitarlos de otro modo. Imágenes creadas con ayuda de la IA acompañan este libro ilustrado, invitando al redescubrimiento sin agotar el misterio de la poesía. Publicado en francés en 2023; el portafolio ofrece las 123 páginas para leer en línea y un enlace de compra en Amazon, sin descargar el PDF original.
 
 ## Idiomas del inicio
 
@@ -41,7 +41,7 @@ Esta guía presenta el portafolio actual. El inicio y la presentación del artis
 
 ## Recursos complementarios
 
-- [Prompt BaudelAIre en Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Página de compra enlazada desde la muestra del libro.
+- [Prompt BaudelAIre en Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Página de compra enlazada desde el lector del libro completo.
 - [Mapa del sitio](https://onchainfinity.art/sitemap.xml): Siete direcciones de inicio, siete páginas sobre el artista y tres sitios de proyectos alojados en onchainfinity.art. Las páginas antiguas no forman parte de este mapa actual.
 
 ## Traducciones completas de la guía

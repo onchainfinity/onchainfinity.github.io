@@ -28,7 +28,7 @@ This guide covers the current portfolio. The homepage and About are available in
 - [Afterimage](https://onchainfinity.art/afterimage/): A return to paintings to listen to what remains when the image fades. These lingering impressions become electronic music, stories and moving images: another way to inhabit artworks. Starry Signal responds to Vincent van Gogh's The Starry Night (1889); the source painting is credited to Van Gogh.
 - [Robolution](https://onchainfinity.art/robolution/): A search for human dreams and questions within the foundational texts of computer science. Electronic textures and orchestral sweep give them voice at the threshold of an uncertain future. Robolution 000 is the album; Entropy Overture is one of its tracks.
 - [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): A journey through the memory of painting in the footsteps of a cat. Images, story and music form an artbook to inhabit, rediscovering artworks and getting lost in them anew. Galerie de Babel is the dedicated project site on its own domain.
-- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): A return to Baudelaire's verses to inhabit them differently. AI-assisted images accompany this illustrated book, inviting rediscovery without exhausting poetry's mystery. Published in French in 2023; the portfolio offers selected pages and an Amazon purchase link, not the complete PDF.
+- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): A return to Baudelaire's verses to inhabit them differently. AI-assisted images accompany this illustrated book, inviting rediscovery without exhausting poetry's mystery. Published in French in 2023; the portfolio offers all 123 pages to read online and an Amazon purchase link, not the complete PDF download.
 
 ## Homepage languages
 
@@ -42,7 +42,7 @@ This guide covers the current portfolio. The homepage and About are available in
 
 ## Optional
 
-- [Prompt BaudelAIre on Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Purchase page linked from the book preview.
+- [Prompt BaudelAIre on Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Purchase page linked from the complete online book reader.
 - [Sitemap](https://onchainfinity.art/sitemap.xml): Seven homepage URLs, seven About URLs and three project sites hosted on onchainfinity.art. Legacy pages are not part of this current sitemap.
 
 ## Complete guide translations

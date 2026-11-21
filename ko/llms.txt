@@ -27,7 +27,7 @@ Onchainfinity는 아티스트의 활동명이다. 홈과 작가 소개는 개인
 - [Afterimage](https://onchainfinity.art/afterimage/): 그림으로 돌아가 이미지가 사라진 뒤에도 남는 것에 귀를 기울인다. 이 잔향들은 전자음악, 이야기, 움직이는 이미지가 되어 작품 속에 머무는 또 하나의 방식이 된다. Starry Signal은 빈센트 반 고흐의 《별이 빛나는 밤》(1889)에 응답하는 작품이며, 원화의 작가는 반 고흐로 명시된다.
 - [Robolution](https://onchainfinity.art/robolution/): 컴퓨터 과학의 토대를 이룬 글에서 인간의 꿈과 질문을 찾는다. 전자음의 질감과 관현악의 호흡이 불확실한 미래의 문턱에서 그것들을 울리게 한다. Robolution 000은 앨범명이며, Entropy Overture는 수록곡 가운데 하나다.
 - [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): 고양이의 발걸음을 따라 회화의 기억을 가로지르는 여정. 이미지와 이야기, 음악이 그 안에 머물 수 있는 아트북을 이룬다. 작품과 다시 만나고, 다른 방식으로 그 안에서 길을 잃기 위해서다. Galerie de Babel은 독립 도메인을 사용하는 프로젝트 전용 사이트다.
-- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): 보들레르의 시구로 돌아가 다른 방식으로 그 안에 머무는 시도. AI의 도움으로 만든 이미지들이 이 삽화집에 함께하며, 시의 신비를 모두 풀어내지 않은 채 재발견으로 초대한다. 2023년에 프랑스어로 출간되었다. 포트폴리오에서는 일부 페이지와 Amazon 구매 링크를 제공하며, 전체 PDF는 공개하지 않는다.
+- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): 보들레르의 시구로 돌아가 다른 방식으로 그 안에 머무는 시도. AI의 도움으로 만든 이미지들이 이 삽화집에 함께하며, 시의 신비를 모두 풀어내지 않은 채 재발견으로 초대한다. 2023년에 프랑스어로 출간되었다. 포트폴리오에서는 전체 123페이지를 온라인으로 읽을 수 있으며 Amazon 구매 링크도 제공한다. 원본 PDF 다운로드는 제공하지 않는다.
 
 ## 홈의 언어
 
@@ -41,7 +41,7 @@ Onchainfinity는 아티스트의 활동명이다. 홈과 작가 소개는 개인
 
 ## 추가 자료
 
-- [Amazon의 Prompt BaudelAIre](https://www.amazon.fr/dp/B0CHL1C7G9): 책 미리보기에서 연결되는 구매 페이지.
+- [Amazon의 Prompt BaudelAIre](https://www.amazon.fr/dp/B0CHL1C7G9): 책 전체를 읽을 수 있는 온라인 뷰어에서 연결되는 구매 페이지.
 - [사이트맵](https://onchainfinity.art/sitemap.xml): 홈 주소 일곱 개, 작가 소개 주소 일곱 개, onchainfinity.art에 호스팅된 프로젝트 사이트 세 개를 담고 있다. 이전 페이지들은 현재 사이트맵에 포함되지 않는다.
 
 ## 안내서 전체 번역본

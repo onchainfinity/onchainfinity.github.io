@@ -27,7 +27,7 @@ Este guia apresenta o portefólio atual. A página inicial e a apresentação do
 - [Afterimage](https://onchainfinity.art/afterimage/): Um regresso às pinturas para escutar o que permanece quando a imagem se desvanece. Estas impressões persistentes tornam-se música eletrónica, narrativas e imagens em movimento: outra forma de habitar as obras. Starry Signal responde a A Noite Estrelada (1889), de Vincent van Gogh; a pintura original é creditada a Van Gogh.
 - [Robolution](https://onchainfinity.art/robolution/): Uma procura dos nossos sonhos e das nossas perguntas nos textos fundadores da informática. Texturas eletrónicas e fôlego orquestral dão-lhes voz no limiar de um futuro incerto. Robolution 000 é o álbum; Entropy Overture é uma das suas faixas.
 - [Prompt Chat sur Toile / Galerie de Babel](https://galeriedebabel.art/): Uma travessia da memória da pintura nos passos de um gato. Imagens, narrativa e música compõem um livro de arte para habitar, reencontrando as obras e perdendo-se nelas de outra maneira. Galerie de Babel é o site dedicado ao projeto, com domínio próprio.
-- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): Um regresso aos versos de Baudelaire para os habitar de outra maneira. Imagens criadas com o apoio da IA acompanham este livro ilustrado, convidando à redescoberta sem esgotar o mistério da poesia. Publicado em francês em 2023; o portefólio oferece páginas selecionadas e uma ligação para compra na Amazon, não o PDF integral.
+- [Prompt BaudelAIre](https://onchainfinity.art/#prompt-baudelaire): Um regresso aos versos de Baudelaire para os habitar de outra maneira. Imagens criadas com o apoio da IA acompanham este livro ilustrado, convidando à redescoberta sem esgotar o mistério da poesia. Publicado em francês em 2023; o portefólio disponibiliza as 123 páginas para leitura online e uma ligação para compra na Amazon, sem descarregar o PDF original.
 
 ## Idiomas da página inicial
 
@@ -41,7 +41,7 @@ Este guia apresenta o portefólio atual. A página inicial e a apresentação do
 
 ## Recursos complementares
 
-- [Prompt BaudelAIre na Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Página de compra ligada à amostra do livro.
+- [Prompt BaudelAIre na Amazon](https://www.amazon.fr/dp/B0CHL1C7G9): Página de compra ligada ao leitor online do livro completo.
 - [Mapa do site](https://onchainfinity.art/sitemap.xml): Sete endereços da página inicial, sete páginas sobre o artista e três sites de projetos alojados em onchainfinity.art. As páginas antigas não fazem parte deste mapa atual.
 
 ## Traduções integrais do guia
